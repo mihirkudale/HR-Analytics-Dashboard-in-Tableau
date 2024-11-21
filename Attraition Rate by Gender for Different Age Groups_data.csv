@@ -1,0 +1,1471 @@
+﻿CF age band,Gender,Age (bin),Department,Job Role,Job Satisfaction,Education,Attrition,Age,Attrition Count,MIN(1)
+35 - 44,Female,39,Sales,Sales Executive,4,Associates Degree,Yes,41,1,1
+45 - 54,Male,48,R&D,Research Scientist,2,High School,No,49,0,1
+35 - 44,Male,36,R&D,Laboratory Technician,3,Associates Degree,Yes,37,1,1
+25 - 34,Female,33,R&D,Research Scientist,3,Master's Degree,No,33,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,2,High School,No,27,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,4,Associates Degree,No,32,0,1
+Over 55,Female,57,R&D,Laboratory Technician,1,Bachelor's Degree,No,59,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,3,High School,No,30,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,3,Bachelor's Degree,No,38,0,1
+35 - 44,Male,36,R&D,Healthcare Representative,3,Bachelor's Degree,No,36,0,1
+35 - 44,Male,33,R&D,Laboratory Technician,2,Bachelor's Degree,No,35,0,1
+25 - 34,Female,27,R&D,Laboratory Technician,3,Associates Degree,No,29,0,1
+25 - 34,Male,30,R&D,Research Scientist,3,High School,No,31,0,1
+25 - 34,Male,33,R&D,Laboratory Technician,4,Associates Degree,No,34,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,3,Bachelor's Degree,Yes,28,1,1
+25 - 34,Female,27,R&D,Manufacturing Director,1,Master's Degree,No,29,0,1
+25 - 34,Male,30,R&D,Research Scientist,2,Associates Degree,No,32,0,1
+Under 25,Male,21,R&D,Laboratory Technician,4,Associates Degree,No,22,0,1
+45 - 54,Female,51,Sales,Manager,4,Master's Degree,No,53,0,1
+35 - 44,Male,36,R&D,Research Scientist,4,Bachelor's Degree,No,38,0,1
+Under 25,Female,24,R&D,Manufacturing Director,3,Associates Degree,No,24,0,1
+35 - 44,Male,36,Sales,Sales Representative,1,Master's Degree,Yes,36,1,1
+25 - 34,Female,33,R&D,Research Director,2,Master's Degree,No,34,0,1
+Under 25,Male,21,R&D,Research Scientist,4,Associates Degree,No,21,0,1
+25 - 34,Male,33,R&D,Research Scientist,1,High School,Yes,34,1,1
+45 - 54,Female,51,R&D,Manager,3,Bachelor's Degree,No,53,0,1
+25 - 34,Female,30,R&D,Research Scientist,1,High School,Yes,32,1,1
+35 - 44,Male,42,Sales,Sales Executive,2,Master's Degree,No,42,0,1
+35 - 44,Female,42,R&D,Healthcare Representative,4,Master's Degree,No,44,0,1
+45 - 54,Female,45,Sales,Manager,1,Master's Degree,No,46,0,1
+25 - 34,Male,33,R&D,Laboratory Technician,4,Bachelor's Degree,No,33,0,1
+35 - 44,Male,42,R&D,Healthcare Representative,4,Master's Degree,No,44,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,3,Associates Degree,No,30,0,1
+35 - 44,Male,39,Sales,Sales Representative,4,Bachelor's Degree,Yes,39,1,1
+Under 25,Male,24,R&D,Research Scientist,4,Bachelor's Degree,Yes,24,1,1
+35 - 44,Female,42,R&D,Research Scientist,3,Associates Degree,No,43,0,1
+45 - 54,Male,48,Sales,Sales Representative,3,Associates Degree,Yes,50,1,1
+35 - 44,Female,33,Sales,Sales Representative,4,Bachelor's Degree,No,35,0,1
+35 - 44,Female,36,R&D,Research Scientist,1,Master's Degree,No,36,0,1
+25 - 34,Female,33,Sales,Sales Executive,1,Bachelor's Degree,No,33,0,1
+35 - 44,Male,33,R&D,Laboratory Technician,4,Associates Degree,No,35,0,1
+25 - 34,Female,27,R&D,Laboratory Technician,1,Master's Degree,No,27,0,1
+25 - 34,Male,24,R&D,Laboratory Technician,3,Bachelor's Degree,Yes,26,1,1
+25 - 34,Male,27,Sales,Sales Executive,3,Bachelor's Degree,No,27,0,1
+25 - 34,Female,30,R&D,Laboratory Technician,4,Associates Degree,No,30,0,1
+35 - 44,Female,39,R&D,Research Director,3,Bachelor's Degree,Yes,41,1,1
+25 - 34,Male,33,Sales,Sales Executive,3,Master's Degree,No,34,0,1
+35 - 44,Male,36,R&D,Research Scientist,2,Associates Degree,No,37,0,1
+45 - 54,Male,45,Sales,Sales Executive,4,Master's Degree,No,46,0,1
+35 - 44,Male,33,R&D,Laboratory Technician,4,High School,No,35,0,1
+45 - 54,Male,48,R&D,Laboratory Technician,3,Associates Degree,Yes,48,1,1
+25 - 34,Male,27,R&D,Laboratory Technician,3,Master's Degree,Yes,28,1,1
+35 - 44,Female,42,Sales,Sales Executive,1,Doctoral Degree,No,44,0,1
+35 - 44,Male,33,R&D,Healthcare Representative,1,Associates Degree,No,35,0,1
+25 - 34,Female,24,Sales,Sales Executive,4,Bachelor's Degree,No,26,0,1
+25 - 34,Female,33,R&D,Research Director,4,Associates Degree,No,33,0,1
+35 - 44,Male,33,Sales,Sales Executive,1,Doctoral Degree,No,35,0,1
+35 - 44,Female,33,R&D,Laboratory Technician,1,Master's Degree,No,35,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,4,Master's Degree,No,31,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,3,Master's Degree,No,37,0,1
+25 - 34,Male,30,R&D,Manufacturing Director,4,Bachelor's Degree,No,32,0,1
+35 - 44,Female,36,R&D,Laboratory Technician,4,Doctoral Degree,No,38,0,1
+45 - 54,Female,48,R&D,Research Director,3,Associates Degree,No,50,0,1
+Over 55,Female,57,Sales,Sales Executive,1,Bachelor's Degree,No,59,0,1
+35 - 44,Female,36,R&D,Healthcare Representative,3,Bachelor's Degree,No,36,0,1
+Over 55,Female,54,R&D,Manager,3,Bachelor's Degree,No,55,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,2,Bachelor's Degree,No,36,0,1
+45 - 54,Male,45,R&D,Research Scientist,1,Bachelor's Degree,No,45,0,1
+35 - 44,Male,33,R&D,Research Scientist,1,Bachelor's Degree,No,35,0,1
+35 - 44,Male,36,R&D,Research Scientist,3,Bachelor's Degree,Yes,36,1,1
+Over 55,Female,57,Sales,Sales Executive,3,High School,No,59,0,1
+25 - 34,Male,27,R&D,Research Scientist,2,Bachelor's Degree,No,29,0,1
+25 - 34,Male,30,R&D,Research Scientist,2,Master's Degree,No,31,0,1
+25 - 34,Male,30,R&D,Research Scientist,2,Bachelor's Degree,No,32,0,1
+35 - 44,Female,36,R&D,Laboratory Technician,4,Bachelor's Degree,No,36,0,1
+25 - 34,Female,30,R&D,Manufacturing Director,4,Master's Degree,No,31,0,1
+35 - 44,Male,33,Sales,Sales Executive,1,Master's Degree,No,35,0,1
+45 - 54,Male,45,R&D,Research Director,1,Master's Degree,No,45,0,1
+35 - 44,Male,36,R&D,Research Director,3,Master's Degree,No,37,0,1
+45 - 54,Male,45,HR,Human Resources,2,Associates Degree,No,46,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,4,High School,No,30,0,1
+35 - 44,Male,33,R&D,Research Scientist,3,Bachelor's Degree,No,35,0,1
+Over 55,Male,54,Sales,Sales Executive,4,Associates Degree,No,55,0,1
+35 - 44,Female,36,R&D,Research Scientist,4,Bachelor's Degree,No,38,0,1
+25 - 34,Male,33,R&D,Manufacturing Director,2,Associates Degree,No,34,0,1
+Over 55,Male,54,R&D,Manufacturing Director,4,Bachelor's Degree,No,56,0,1
+Under 25,Male,21,Sales,Sales Representative,1,High School,No,23,0,1
+45 - 54,Male,51,R&D,Laboratory Technician,4,Master's Degree,No,51,0,1
+25 - 34,Male,30,R&D,Healthcare Representative,4,Bachelor's Degree,No,30,0,1
+45 - 54,Male,45,Sales,Sales Executive,4,Associates Degree,Yes,46,1,1
+35 - 44,Male,39,R&D,Healthcare Representative,2,Master's Degree,No,40,0,1
+45 - 54,Male,51,Sales,Sales Executive,4,Master's Degree,No,51,0,1
+25 - 34,Female,30,Sales,Sales Executive,2,Associates Degree,No,30,0,1
+45 - 54,Male,45,R&D,Healthcare Representative,1,Bachelor's Degree,No,46,0,1
+25 - 34,Male,30,Sales,Sales Executive,3,Master's Degree,No,32,0,1
+45 - 54,Female,54,R&D,Research Director,3,Master's Degree,No,54,0,1
+Under 25,Female,24,Sales,Sales Executive,3,Associates Degree,No,24,0,1
+25 - 34,Male,27,Sales,Sales Executive,3,Bachelor's Degree,No,28,0,1
+Over 55,Male,57,Sales,Sales Executive,3,Master's Degree,No,58,0,1
+35 - 44,Male,42,R&D,Laboratory Technician,2,Bachelor's Degree,No,44,0,1
+35 - 44,Male,36,HR,Human Resources,1,Master's Degree,Yes,37,1,1
+25 - 34,Male,30,R&D,Research Scientist,1,High School,No,32,0,1
+Under 25,Female,18,R&D,Laboratory Technician,4,Bachelor's Degree,Yes,20,1,1
+25 - 34,Female,33,R&D,Research Scientist,3,Master's Degree,No,34,0,1
+35 - 44,Male,36,R&D,Healthcare Representative,4,Associates Degree,No,37,0,1
+Over 55,Female,57,HR,Manager,4,Master's Degree,No,59,0,1
+45 - 54,Female,48,R&D,Research Director,2,Bachelor's Degree,No,50,0,1
+25 - 34,Male,24,Sales,Sales Executive,3,Bachelor's Degree,Yes,25,1,1
+25 - 34,Male,24,R&D,Research Scientist,4,High School,No,25,0,1
+Under 25,Female,21,R&D,Laboratory Technician,4,Bachelor's Degree,No,22,0,1
+45 - 54,Female,51,R&D,Healthcare Representative,1,Master's Degree,No,51,0,1
+25 - 34,Male,33,R&D,Laboratory Technician,3,Bachelor's Degree,Yes,34,1,1
+45 - 54,Female,54,HR,Manager,4,Bachelor's Degree,No,54,0,1
+Under 25,Male,24,R&D,Laboratory Technician,3,High School,No,24,0,1
+25 - 34,Female,33,R&D,Research Scientist,2,Master's Degree,No,34,0,1
+35 - 44,Male,36,Sales,Sales Executive,4,Bachelor's Degree,No,37,0,1
+25 - 34,Female,33,R&D,Manager,1,Bachelor's Degree,No,34,0,1
+35 - 44,Female,36,Sales,Sales Executive,4,Associates Degree,No,36,0,1
+35 - 44,Female,36,R&D,Laboratory Technician,4,Associates Degree,No,36,0,1
+35 - 44,Male,42,Sales,Manager,4,Associates Degree,No,43,0,1
+25 - 34,Male,30,R&D,Research Scientist,3,Bachelor's Degree,No,30,0,1
+25 - 34,Male,33,Sales,Sales Executive,2,Associates Degree,No,33,0,1
+Over 55,Female,54,R&D,Research Scientist,2,Master's Degree,Yes,56,1,1
+45 - 54,Male,51,R&D,Research Director,3,Bachelor's Degree,No,51,0,1
+25 - 34,Male,30,Sales,Sales Executive,3,Master's Degree,Yes,31,1,1
+25 - 34,Female,24,R&D,Research Scientist,2,Bachelor's Degree,No,26,0,1
+Over 55,Female,57,R&D,Healthcare Representative,4,Master's Degree,Yes,58,1,1
+Under 25,Male,18,Sales,Sales Representative,3,High School,Yes,19,1,1
+Under 25,Male,21,R&D,Laboratory Technician,4,High School,No,22,0,1
+45 - 54,Female,48,R&D,Manufacturing Director,1,Master's Degree,No,49,0,1
+35 - 44,Female,42,R&D,Research Scientist,3,Bachelor's Degree,No,43,0,1
+45 - 54,Female,48,Sales,Sales Executive,4,Bachelor's Degree,No,50,0,1
+25 - 34,Female,30,Sales,Sales Executive,3,Bachelor's Degree,Yes,31,1,1
+35 - 44,Male,39,Sales,Sales Executive,3,High School,No,41,0,1
+25 - 34,Female,24,HR,Human Resources,3,High School,No,26,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,2,Associates Degree,No,36,0,1
+45 - 54,Male,51,R&D,Manufacturing Director,4,Master's Degree,Yes,51,1,1
+35 - 44,Female,39,Sales,Sales Executive,3,Master's Degree,No,39,0,1
+25 - 34,Male,24,Sales,Sales Executive,3,Bachelor's Degree,No,25,0,1
+25 - 34,Male,30,HR,Human Resources,4,Bachelor's Degree,No,30,0,1
+25 - 34,Female,30,R&D,Laboratory Technician,1,Bachelor's Degree,Yes,32,1,1
+45 - 54,Male,45,R&D,Research Scientist,4,Bachelor's Degree,No,45,0,1
+35 - 44,Female,36,R&D,Research Scientist,3,Doctoral Degree,No,38,0,1
+25 - 34,Female,30,R&D,Research Scientist,3,Bachelor's Degree,No,30,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,Associates Degree,No,32,0,1
+25 - 34,Female,30,R&D,Research Scientist,1,Bachelor's Degree,No,30,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,4,High School,No,30,0,1
+35 - 44,Male,39,R&D,Manager,1,Bachelor's Degree,No,41,0,1
+35 - 44,Male,39,R&D,Laboratory Technician,1,Master's Degree,No,41,0,1
+Under 25,Female,18,R&D,Laboratory Technician,2,High School,No,19,0,1
+35 - 44,Female,39,R&D,Research Scientist,2,Bachelor's Degree,No,40,0,1
+35 - 44,Male,33,Sales,Sales Executive,2,Doctoral Degree,No,35,0,1
+45 - 54,Male,51,Sales,Sales Representative,3,Associates Degree,No,53,0,1
+45 - 54,Male,45,R&D,Laboratory Technician,2,Bachelor's Degree,No,45,0,1
+25 - 34,Female,30,Sales,Sales Executive,4,Bachelor's Degree,No,32,0,1
+25 - 34,Male,27,R&D,Manufacturing Director,3,High School,No,29,0,1
+45 - 54,Male,51,R&D,Manufacturing Director,3,Master's Degree,No,51,0,1
+Over 55,Female,57,R&D,Research Scientist,2,Bachelor's Degree,No,58,0,1
+35 - 44,Male,39,Sales,Sales Executive,4,Master's Degree,No,40,0,1
+25 - 34,Female,33,Sales,Sales Representative,3,Master's Degree,No,34,0,1
+Under 25,Male,21,R&D,Research Scientist,4,High School,No,22,0,1
+25 - 34,Male,27,R&D,Research Scientist,2,Bachelor's Degree,No,27,0,1
+25 - 34,Male,27,R&D,Research Scientist,4,Bachelor's Degree,No,28,0,1
+Over 55,Male,57,R&D,Healthcare Representative,4,Associates Degree,No,57,0,1
+25 - 34,Male,27,R&D,Research Scientist,3,Bachelor's Degree,No,27,0,1
+45 - 54,Female,48,R&D,Manager,2,Bachelor's Degree,No,50,0,1
+35 - 44,Male,39,R&D,Research Scientist,3,Bachelor's Degree,No,41,0,1
+25 - 34,Female,30,Sales,Sales Executive,4,Bachelor's Degree,No,30,0,1
+35 - 44,Female,36,Sales,Sales Executive,4,Master's Degree,No,38,0,1
+25 - 34,Male,30,R&D,Research Scientist,3,Doctoral Degree,No,32,0,1
+25 - 34,Male,27,R&D,Research Scientist,2,Bachelor's Degree,No,27,0,1
+Under 25,Female,18,Sales,Sales Representative,1,High School,Yes,19,1,1
+35 - 44,Male,36,R&D,Laboratory Technician,2,Associates Degree,No,36,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,1,Bachelor's Degree,No,30,0,1
+45 - 54,Female,45,Sales,Sales Executive,1,Associates Degree,No,45,0,1
+Over 55,Female,54,R&D,Research Scientist,1,Bachelor's Degree,No,56,0,1
+25 - 34,Male,33,R&D,Research Scientist,4,Bachelor's Degree,No,33,0,1
+Under 25,Male,18,R&D,Laboratory Technician,4,Bachelor's Degree,Yes,19,1,1
+45 - 54,Female,45,Sales,Sales Executive,1,Associates Degree,No,46,0,1
+35 - 44,Female,36,R&D,Laboratory Technician,4,Associates Degree,No,38,0,1
+25 - 34,Female,30,R&D,Research Scientist,4,High School,No,31,0,1
+25 - 34,Female,33,R&D,Research Scientist,2,Associates Degree,No,34,0,1
+35 - 44,Female,39,Sales,Sales Representative,2,Associates Degree,Yes,41,1,1
+45 - 54,Male,48,R&D,Laboratory Technician,3,Bachelor's Degree,No,50,0,1
+45 - 54,Female,51,R&D,Manufacturing Director,1,Associates Degree,No,53,0,1
+25 - 34,Female,33,R&D,Research Scientist,2,Bachelor's Degree,No,33,0,1
+35 - 44,Female,39,R&D,Manager,3,High School,No,40,0,1
+Over 55,Male,54,R&D,Research Director,2,Master's Degree,No,55,0,1
+25 - 34,Male,33,R&D,Manufacturing Director,3,High School,No,34,0,1
+45 - 54,Female,51,R&D,Healthcare Representative,2,Bachelor's Degree,No,51,0,1
+45 - 54,Male,51,R&D,Manager,3,Master's Degree,No,52,0,1
+25 - 34,Female,27,R&D,Research Scientist,2,Bachelor's Degree,No,27,0,1
+35 - 44,Male,33,R&D,Manufacturing Director,3,Associates Degree,Yes,35,1,1
+35 - 44,Male,42,R&D,Research Scientist,4,Bachelor's Degree,No,43,0,1
+45 - 54,Male,45,R&D,Manager,4,Associates Degree,No,45,0,1
+35 - 44,Male,36,R&D,Research Scientist,1,Bachelor's Degree,No,37,0,1
+35 - 44,Female,33,R&D,Laboratory Technician,2,Bachelor's Degree,No,35,0,1
+35 - 44,Female,42,R&D,Manufacturing Director,3,Associates Degree,No,42,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,3,Master's Degree,No,38,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,4,Bachelor's Degree,No,38,0,1
+25 - 34,Male,27,R&D,Manufacturing Director,1,High School,No,27,0,1
+45 - 54,Male,48,R&D,Manufacturing Director,4,Master's Degree,No,49,0,1
+25 - 34,Male,33,R&D,Research Scientist,3,Master's Degree,No,34,0,1
+35 - 44,Male,39,R&D,Laboratory Technician,4,Associates Degree,No,40,0,1
+35 - 44,Male,36,R&D,Healthcare Representative,1,High School,Yes,38,1,1
+25 - 34,Female,27,Sales,Sales Executive,4,Bachelor's Degree,Yes,29,1,1
+Under 25,Male,21,R&D,Research Scientist,2,Bachelor's Degree,No,22,0,1
+35 - 44,Female,36,R&D,Laboratory Technician,4,High School,No,36,0,1
+35 - 44,Male,39,R&D,Healthcare Representative,4,Doctoral Degree,No,40,0,1
+45 - 54,Male,45,R&D,Healthcare Representative,1,Master's Degree,No,46,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,Master's Degree,Yes,32,1,1
+25 - 34,Male,30,R&D,Manufacturing Director,3,High School,No,30,0,1
+25 - 34,Female,27,Sales,Sales Executive,3,Bachelor's Degree,No,27,0,1
+45 - 54,Male,51,R&D,Research Director,2,Master's Degree,No,51,0,1
+25 - 34,Female,30,R&D,Research Scientist,1,Bachelor's Degree,Yes,30,1,1
+35 - 44,Female,39,Sales,Manager,4,Bachelor's Degree,No,41,0,1
+25 - 34,Female,30,Sales,Sales Executive,1,Master's Degree,Yes,30,1,1
+25 - 34,Male,27,R&D,Research Scientist,3,Bachelor's Degree,Yes,29,1,1
+45 - 54,Female,45,Sales,Sales Executive,4,Bachelor's Degree,No,45,0,1
+45 - 54,Female,54,Sales,Sales Executive,1,Bachelor's Degree,No,54,0,1
+35 - 44,Male,36,R&D,Laboratory Technician,2,Associates Degree,No,36,0,1
+25 - 34,Female,33,R&D,Research Scientist,2,Master's Degree,No,33,0,1
+35 - 44,Male,36,R&D,Research Director,4,Bachelor's Degree,No,37,0,1
+35 - 44,Male,36,Sales,Sales Executive,3,Bachelor's Degree,No,38,0,1
+25 - 34,Male,30,R&D,Manufacturing Director,3,Master's Degree,No,31,0,1
+Over 55,Male,57,R&D,Research Scientist,4,Bachelor's Degree,No,59,0,1
+35 - 44,Male,36,Sales,Sales Representative,4,Master's Degree,No,37,0,1
+25 - 34,Female,27,Sales,Sales Executive,4,High School,No,29,0,1
+35 - 44,Female,33,Sales,Sales Executive,3,Bachelor's Degree,No,35,0,1
+25 - 34,Male,27,R&D,Research Scientist,4,High School,Yes,29,1,1
+45 - 54,Female,51,R&D,Laboratory Technician,4,Bachelor's Degree,No,52,0,1
+35 - 44,Male,42,R&D,Manager,4,Associates Degree,No,42,0,1
+Over 55,Male,57,HR,Human Resources,3,Associates Degree,No,59,0,1
+45 - 54,Female,48,Sales,Manager,4,Master's Degree,No,50,0,1
+25 - 34,Male,33,R&D,Laboratory Technician,4,Bachelor's Degree,Yes,33,1,1
+35 - 44,Female,42,Sales,Manager,4,Bachelor's Degree,No,43,0,1
+25 - 34,Female,33,R&D,Laboratory Technician,1,Associates Degree,Yes,33,1,1
+45 - 54,Male,51,Sales,Manager,3,Master's Degree,No,52,0,1
+25 - 34,Female,30,Sales,Sales Representative,2,Associates Degree,No,32,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,3,Bachelor's Degree,Yes,32,1,1
+35 - 44,Female,39,R&D,Laboratory Technician,3,Master's Degree,No,39,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,Master's Degree,No,32,0,1
+35 - 44,Male,39,R&D,Research Scientist,1,Associates Degree,No,41,0,1
+35 - 44,Male,39,R&D,Research Scientist,4,Associates Degree,No,40,0,1
+45 - 54,Male,45,R&D,Manager,4,Bachelor's Degree,No,45,0,1
+25 - 34,Male,30,R&D,Research Director,3,Master's Degree,No,31,0,1
+25 - 34,Female,33,R&D,Research Scientist,4,Master's Degree,No,33,0,1
+25 - 34,Male,33,R&D,Manufacturing Director,1,Master's Degree,No,34,0,1
+35 - 44,Female,36,R&D,Research Scientist,1,Associates Degree,No,37,0,1
+45 - 54,Male,45,R&D,Manufacturing Director,3,Master's Degree,No,45,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,3,Bachelor's Degree,Yes,37,1,1
+35 - 44,Female,39,R&D,Healthcare Representative,3,Master's Degree,No,39,0,1
+25 - 34,Male,27,R&D,Research Scientist,4,Bachelor's Degree,No,29,0,1
+35 - 44,Female,42,R&D,Research Scientist,1,Associates Degree,No,42,0,1
+25 - 34,Male,27,Sales,Sales Executive,4,Associates Degree,No,29,0,1
+25 - 34,Female,24,R&D,Manufacturing Director,3,Bachelor's Degree,No,25,0,1
+35 - 44,Female,42,R&D,Laboratory Technician,1,Bachelor's Degree,No,42,0,1
+35 - 44,Male,39,R&D,Research Director,3,Associates Degree,No,40,0,1
+45 - 54,Male,51,R&D,Research Scientist,4,Bachelor's Degree,No,51,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,2,Associates Degree,Yes,31,1,1
+25 - 34,Male,30,R&D,Laboratory Technician,2,Bachelor's Degree,No,32,0,1
+35 - 44,Male,36,Sales,Sales Executive,4,Associates Degree,No,38,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,1,High School,No,32,0,1
+45 - 54,Female,45,Sales,Manager,2,Bachelor's Degree,No,46,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,3,Master's Degree,Yes,28,1,1
+25 - 34,Male,27,Sales,Sales Executive,2,Bachelor's Degree,No,29,0,1
+25 - 34,Male,30,R&D,Healthcare Representative,4,Bachelor's Degree,No,31,0,1
+25 - 34,Male,24,R&D,Healthcare Representative,1,Associates Degree,No,25,0,1
+45 - 54,Male,45,R&D,Healthcare Representative,4,Associates Degree,No,45,0,1
+35 - 44,Male,36,R&D,Laboratory Technician,4,Bachelor's Degree,No,36,0,1
+Over 55,Male,54,R&D,Manager,1,Bachelor's Degree,No,55,0,1
+45 - 54,Male,45,R&D,Manager,2,Master's Degree,Yes,47,1,1
+25 - 34,Male,27,R&D,Research Scientist,4,Bachelor's Degree,No,28,0,1
+35 - 44,Male,36,Sales,Sales Executive,4,Master's Degree,No,37,0,1
+Under 25,Male,21,R&D,Research Scientist,3,Associates Degree,No,21,0,1
+35 - 44,Female,36,R&D,Research Director,4,Master's Degree,No,37,0,1
+35 - 44,Female,33,R&D,Manager,2,Bachelor's Degree,No,35,0,1
+35 - 44,Female,36,Sales,Sales Executive,1,Associates Degree,No,38,0,1
+25 - 34,Female,24,R&D,Manufacturing Director,2,Bachelor's Degree,No,26,0,1
+45 - 54,Male,48,R&D,Research Director,2,High School,No,50,0,1
+45 - 54,Male,51,R&D,Research Director,3,Master's Degree,No,53,0,1
+35 - 44,Male,42,Sales,Sales Executive,3,High School,No,42,0,1
+25 - 34,Male,27,Sales,Sales Executive,4,Associates Degree,No,29,0,1
+Over 55,Male,54,R&D,Laboratory Technician,4,Associates Degree,No,55,0,1
+25 - 34,Male,24,R&D,Healthcare Representative,1,Associates Degree,No,26,0,1
+35 - 44,Female,36,R&D,Research Scientist,4,Bachelor's Degree,No,37,0,1
+35 - 44,Male,42,R&D,Laboratory Technician,3,Bachelor's Degree,Yes,44,1,1
+35 - 44,Male,36,R&D,Healthcare Representative,4,Master's Degree,No,38,0,1
+25 - 34,Male,24,R&D,Laboratory Technician,2,Master's Degree,Yes,26,1,1
+25 - 34,Female,27,R&D,Research Scientist,4,Associates Degree,No,28,0,1
+45 - 54,Female,48,R&D,Research Director,1,Master's Degree,No,49,0,1
+35 - 44,Male,36,R&D,Research Scientist,2,Bachelor's Degree,No,36,0,1
+25 - 34,Female,30,Sales,Sales Representative,2,Bachelor's Degree,No,31,0,1
+25 - 34,Male,24,Sales,Sales Executive,4,Master's Degree,Yes,26,1,1
+35 - 44,Male,36,R&D,Research Scientist,4,Bachelor's Degree,No,37,0,1
+35 - 44,Female,42,Sales,Sales Executive,2,Bachelor's Degree,No,42,0,1
+Under 25,Male,18,R&D,Laboratory Technician,3,Bachelor's Degree,Yes,18,1,1
+35 - 44,Male,33,Sales,Sales Executive,2,Bachelor's Degree,No,35,0,1
+35 - 44,Male,36,R&D,Laboratory Technician,4,Master's Degree,No,36,0,1
+45 - 54,Male,51,R&D,Manufacturing Director,2,Bachelor's Degree,No,51,0,1
+35 - 44,Male,39,Sales,Manager,2,Master's Degree,No,41,0,1
+Under 25,Female,18,Sales,Sales Representative,3,Bachelor's Degree,No,18,0,1
+25 - 34,Male,27,R&D,Healthcare Representative,1,Associates Degree,No,28,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,Bachelor's Degree,No,31,0,1
+35 - 44,Male,39,R&D,Healthcare Representative,4,Bachelor's Degree,No,39,0,1
+35 - 44,Female,36,R&D,Laboratory Technician,2,Master's Degree,No,36,0,1
+25 - 34,Male,30,Sales,Sales Executive,3,Bachelor's Degree,No,32,0,1
+35 - 44,Female,36,R&D,Research Director,2,Associates Degree,No,38,0,1
+Over 55,Male,57,R&D,Healthcare Representative,3,Master's Degree,No,58,0,1
+25 - 34,Male,30,R&D,Research Scientist,4,Master's Degree,No,31,0,1
+25 - 34,Male,30,HR,Human Resources,1,Bachelor's Degree,No,31,0,1
+45 - 54,Male,45,R&D,Laboratory Technician,1,Bachelor's Degree,No,45,0,1
+25 - 34,Male,30,R&D,Research Scientist,4,Master's Degree,No,31,0,1
+25 - 34,Female,33,R&D,Manager,2,Master's Degree,No,33,0,1
+35 - 44,Male,39,R&D,Manager,1,High School,No,39,0,1
+35 - 44,Female,42,R&D,Laboratory Technician,4,Master's Degree,No,43,0,1
+45 - 54,Female,48,R&D,Healthcare Representative,3,Associates Degree,No,49,0,1
+45 - 54,Male,51,R&D,Research Scientist,2,Master's Degree,Yes,52,1,1
+25 - 34,Female,27,R&D,Research Scientist,2,Bachelor's Degree,No,27,0,1
+25 - 34,Female,30,Sales,Sales Executive,2,Associates Degree,No,32,0,1
+25 - 34,Male,27,Sales,Sales Executive,3,Bachelor's Degree,No,27,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,Bachelor's Degree,No,31,0,1
+25 - 34,Female,30,R&D,Research Scientist,4,Master's Degree,No,32,0,1
+25 - 34,Male,27,R&D,Research Scientist,4,Master's Degree,Yes,28,1,1
+25 - 34,Female,30,R&D,Research Scientist,4,Associates Degree,No,30,0,1
+25 - 34,Female,30,R&D,Manufacturing Director,3,Associates Degree,No,31,0,1
+35 - 44,Male,39,R&D,Manager,4,Associates Degree,No,39,0,1
+35 - 44,Female,39,Sales,Sales Executive,3,Associates Degree,Yes,39,1,1
+25 - 34,Male,33,Sales,Sales Executive,4,Bachelor's Degree,No,33,0,1
+45 - 54,Male,45,R&D,Research Director,3,Doctoral Degree,No,47,0,1
+35 - 44,Female,42,R&D,Laboratory Technician,3,Master's Degree,No,43,0,1
+25 - 34,Male,27,Sales,Sales Executive,2,High School,No,27,0,1
+45 - 54,Female,54,R&D,Research Scientist,3,Master's Degree,No,54,0,1
+35 - 44,Female,42,R&D,Healthcare Representative,1,Bachelor's Degree,No,43,0,1
+45 - 54,Male,45,R&D,Research Scientist,4,Master's Degree,No,45,0,1
+35 - 44,Male,39,Sales,Sales Executive,4,Associates Degree,No,40,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,1,Master's Degree,Yes,29,1,1
+25 - 34,Male,27,R&D,Laboratory Technician,4,Doctoral Degree,No,29,0,1
+25 - 34,Female,30,Sales,Sales Executive,3,Bachelor's Degree,No,30,0,1
+25 - 34,Female,27,Sales,Sales Executive,2,Master's Degree,No,27,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,4,Associates Degree,No,37,0,1
+35 - 44,Male,36,R&D,Research Director,4,Associates Degree,No,38,0,1
+25 - 34,Female,30,R&D,Manufacturing Director,4,Master's Degree,No,31,0,1
+25 - 34,Female,27,Sales,Sales Executive,2,High School,No,29,0,1
+35 - 44,Male,33,R&D,Manufacturing Director,2,Master's Degree,No,35,0,1
+Under 25,Male,21,R&D,Research Scientist,4,High School,No,23,0,1
+35 - 44,Male,39,R&D,Manufacturing Director,2,Bachelor's Degree,No,41,0,1
+45 - 54,Male,45,Sales,Sales Representative,3,High School,No,47,0,1
+35 - 44,Female,42,R&D,Research Director,4,Doctoral Degree,No,42,0,1
+25 - 34,Male,27,Sales,Sales Executive,3,Bachelor's Degree,No,29,0,1
+35 - 44,Male,42,HR,Human Resources,3,High School,No,42,0,1
+25 - 34,Female,30,R&D,Laboratory Technician,2,Bachelor's Degree,No,32,0,1
+45 - 54,Female,48,Sales,Manager,3,High School,No,48,0,1
+35 - 44,Male,36,R&D,Research Scientist,1,Bachelor's Degree,No,37,0,1
+25 - 34,Female,30,Sales,Sales Executive,3,Associates Degree,No,30,0,1
+25 - 34,Male,24,Sales,Sales Executive,3,Bachelor's Degree,No,26,0,1
+35 - 44,Male,42,R&D,Healthcare Representative,4,Master's Degree,No,42,0,1
+Under 25,Female,21,Sales,Sales Representative,2,High School,Yes,21,1,1
+35 - 44,Female,36,Sales,Sales Executive,4,Doctoral Degree,No,36,0,1
+35 - 44,Male,36,Sales,Sales Executive,4,Master's Degree,No,36,0,1
+Over 55,Male,57,R&D,Healthcare Representative,3,Master's Degree,No,57,0,1
+35 - 44,Female,39,R&D,Laboratory Technician,3,Master's Degree,No,40,0,1
+Under 25,Male,21,Sales,Sales Representative,4,Associates Degree,No,21,0,1
+25 - 34,Female,33,Sales,Sales Representative,3,Bachelor's Degree,Yes,33,1,1
+35 - 44,Female,36,R&D,Laboratory Technician,1,Bachelor's Degree,No,37,0,1
+45 - 54,Female,45,R&D,Manufacturing Director,3,Master's Degree,No,46,0,1
+35 - 44,Male,39,Sales,Sales Executive,2,Bachelor's Degree,Yes,41,1,1
+45 - 54,Male,48,R&D,Healthcare Representative,4,Bachelor's Degree,No,50,0,1
+35 - 44,Male,39,Sales,Sales Executive,3,Associates Degree,Yes,40,1,1
+25 - 34,Male,30,R&D,Research Scientist,2,Master's Degree,No,31,0,1
+Under 25,Female,21,Sales,Sales Representative,2,Bachelor's Degree,Yes,21,1,1
+25 - 34,Male,27,R&D,Research Scientist,4,Bachelor's Degree,No,29,0,1
+35 - 44,Male,33,R&D,Healthcare Representative,2,Master's Degree,No,35,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,2,Associates Degree,No,27,0,1
+25 - 34,Male,27,Sales,Sales Executive,4,Master's Degree,No,28,0,1
+45 - 54,Male,48,R&D,Healthcare Representative,3,Bachelor's Degree,No,49,0,1
+45 - 54,Female,51,Sales,Sales Executive,4,Associates Degree,No,51,0,1
+35 - 44,Female,36,R&D,Research Scientist,3,Bachelor's Degree,No,36,0,1
+25 - 34,Male,33,Sales,Sales Executive,4,Bachelor's Degree,Yes,34,1,1
+Over 55,Female,54,R&D,Manager,4,Bachelor's Degree,No,55,0,1
+Under 25,Female,24,Sales,Sales Executive,3,Master's Degree,No,24,0,1
+25 - 34,Male,30,Sales,Sales Representative,2,High School,No,30,0,1
+25 - 34,Male,24,R&D,Research Scientist,1,High School,Yes,26,1,1
+Under 25,Female,21,R&D,Research Scientist,2,Bachelor's Degree,No,22,0,1
+35 - 44,Male,36,Sales,Sales Executive,3,Associates Degree,No,36,0,1
+25 - 34,Male,30,R&D,Research Scientist,4,Bachelor's Degree,Yes,30,1,1
+35 - 44,Female,36,R&D,Laboratory Technician,1,Bachelor's Degree,No,37,0,1
+35 - 44,Female,39,Sales,Sales Executive,2,Associates Degree,No,40,0,1
+35 - 44,Female,42,R&D,Laboratory Technician,1,Master's Degree,No,42,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,2,Master's Degree,No,37,0,1
+35 - 44,Male,42,R&D,Research Director,2,Bachelor's Degree,No,43,0,1
+35 - 44,Female,39,R&D,Laboratory Technician,3,Bachelor's Degree,No,40,0,1
+45 - 54,Male,54,R&D,Research Director,1,Associates Degree,No,54,0,1
+25 - 34,Female,33,Sales,Sales Executive,3,Master's Degree,No,34,0,1
+25 - 34,Female,30,R&D,Manufacturing Director,1,Associates Degree,No,31,0,1
+35 - 44,Male,42,R&D,Laboratory Technician,4,Bachelor's Degree,No,43,0,1
+35 - 44,Female,42,R&D,Healthcare Representative,3,Master's Degree,No,43,0,1
+25 - 34,Female,24,Sales,Sales Executive,4,Associates Degree,No,25,0,1
+35 - 44,Female,36,R&D,Research Scientist,3,Doctoral Degree,No,37,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,1,Associates Degree,No,31,0,1
+35 - 44,Male,39,R&D,Manager,3,High School,No,39,0,1
+Over 55,Female,54,Sales,Sales Executive,1,Bachelor's Degree,No,56,0,1
+25 - 34,Female,30,Sales,Sales Executive,3,Bachelor's Degree,No,30,0,1
+35 - 44,Male,39,Sales,Sales Executive,1,Bachelor's Degree,No,41,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,1,Associates Degree,No,28,0,1
+25 - 34,Male,24,R&D,Laboratory Technician,1,Bachelor's Degree,Yes,25,1,1
+45 - 54,Male,51,R&D,Manufacturing Director,3,Bachelor's Degree,No,52,0,1
+45 - 54,Male,45,R&D,Research Scientist,4,Associates Degree,No,45,0,1
+45 - 54,Female,51,R&D,Manager,4,Associates Degree,No,52,0,1
+35 - 44,Female,42,R&D,Research Scientist,3,Associates Degree,No,42,0,1
+25 - 34,Female,30,R&D,Manufacturing Director,4,Bachelor's Degree,No,30,0,1
+Over 55,Female,60,R&D,Manager,1,Bachelor's Degree,No,60,0,1
+45 - 54,Female,45,R&D,Manufacturing Director,3,Bachelor's Degree,No,46,0,1
+35 - 44,Female,42,R&D,Healthcare Representative,4,Master's Degree,No,42,0,1
+Under 25,Female,24,Sales,Sales Representative,2,High School,Yes,24,1,1
+25 - 34,Female,33,Sales,Sales Representative,3,Associates Degree,Yes,34,1,1
+35 - 44,Male,36,R&D,Laboratory Technician,4,Associates Degree,No,38,0,1
+35 - 44,Female,39,Sales,Manager,3,Master's Degree,No,40,0,1
+25 - 34,Female,24,R&D,Research Scientist,4,Bachelor's Degree,No,26,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,4,Bachelor's Degree,No,30,0,1
+25 - 34,Male,27,R&D,Research Director,3,Master's Degree,No,29,0,1
+25 - 34,Female,27,R&D,Research Scientist,2,Doctoral Degree,Yes,29,1,1
+Under 25,Male,18,HR,Human Resources,4,Associates Degree,Yes,19,1,1
+25 - 34,Female,30,Sales,Sales Executive,1,Master's Degree,No,30,0,1
+Over 55,Male,57,Sales,Manager,4,Bachelor's Degree,No,57,0,1
+45 - 54,Male,48,R&D,Manager,3,Master's Degree,No,50,0,1
+25 - 34,Female,30,R&D,Laboratory Technician,4,Bachelor's Degree,No,30,0,1
+Over 55,Female,60,Sales,Sales Executive,1,Bachelor's Degree,No,60,0,1
+45 - 54,Female,45,R&D,Manufacturing Director,4,Associates Degree,No,47,0,1
+45 - 54,Male,45,R&D,Research Director,3,Bachelor's Degree,No,46,0,1
+35 - 44,Male,33,R&D,Laboratory Technician,3,Bachelor's Degree,No,35,0,1
+45 - 54,Female,54,R&D,Laboratory Technician,3,Master's Degree,No,54,0,1
+25 - 34,Male,33,R&D,Research Scientist,3,Master's Degree,No,34,0,1
+45 - 54,Female,45,Sales,Sales Executive,4,Bachelor's Degree,No,46,0,1
+25 - 34,Male,30,R&D,Manufacturing Director,2,High School,No,31,0,1
+25 - 34,Male,33,R&D,Manager,3,High School,Yes,33,1,1
+25 - 34,Male,33,R&D,Laboratory Technician,4,High School,Yes,33,1,1
+25 - 34,Male,30,Sales,Sales Representative,2,High School,No,30,0,1
+35 - 44,Male,33,R&D,Healthcare Representative,3,Bachelor's Degree,No,35,0,1
+25 - 34,Male,30,R&D,Healthcare Representative,3,Bachelor's Degree,Yes,31,1,1
+25 - 34,Female,33,HR,Human Resources,1,Bachelor's Degree,Yes,34,1,1
+35 - 44,Male,42,R&D,Laboratory Technician,3,Associates Degree,No,42,0,1
+35 - 44,Male,36,Sales,Sales Executive,4,Master's Degree,No,36,0,1
+Under 25,Male,21,R&D,Laboratory Technician,3,High School,Yes,22,1,1
+45 - 54,Female,48,Sales,Sales Executive,4,Doctoral Degree,No,48,0,1
+Over 55,Female,54,Sales,Manager,2,Doctoral Degree,No,55,0,1
+35 - 44,Male,39,Sales,Sales Executive,4,Associates Degree,No,41,0,1
+35 - 44,Male,33,Sales,Sales Executive,3,Bachelor's Degree,No,35,0,1
+35 - 44,Female,39,R&D,Manufacturing Director,3,Bachelor's Degree,No,40,0,1
+35 - 44,Female,39,R&D,Laboratory Technician,3,High School,No,39,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,High School,No,31,0,1
+35 - 44,Male,42,R&D,Manufacturing Director,1,Bachelor's Degree,No,42,0,1
+45 - 54,Male,45,Sales,Sales Executive,2,Bachelor's Degree,No,45,0,1
+25 - 34,Female,24,HR,Human Resources,3,Master's Degree,Yes,26,1,1
+25 - 34,Male,27,R&D,Manufacturing Director,4,Bachelor's Degree,No,29,0,1
+25 - 34,Female,33,R&D,Research Director,3,Doctoral Degree,No,33,0,1
+25 - 34,Male,30,Sales,Manager,4,Bachelor's Degree,No,31,0,1
+Under 25,Male,18,Sales,Sales Representative,2,Bachelor's Degree,Yes,18,1,1
+35 - 44,Male,39,Sales,Sales Executive,1,Bachelor's Degree,No,40,0,1
+35 - 44,Female,39,R&D,Healthcare Representative,3,Master's Degree,No,41,0,1
+25 - 34,Male,24,Sales,Sales Executive,3,Associates Degree,No,26,0,1
+35 - 44,Female,33,Sales,Sales Executive,3,Bachelor's Degree,No,35,0,1
+25 - 34,Male,33,Sales,Sales Executive,4,Master's Degree,No,34,0,1
+25 - 34,Male,24,R&D,Laboratory Technician,4,Bachelor's Degree,Yes,26,1,1
+35 - 44,Female,36,R&D,Manufacturing Director,4,Bachelor's Degree,No,37,0,1
+45 - 54,Female,45,R&D,Healthcare Representative,3,High School,No,46,0,1
+35 - 44,Female,39,Sales,Manager,1,Doctoral Degree,No,41,0,1
+35 - 44,Male,36,Sales,Sales Executive,2,Master's Degree,No,37,0,1
+45 - 54,Male,51,R&D,Research Scientist,1,Associates Degree,No,52,0,1
+25 - 34,Male,30,Sales,Sales Executive,3,Master's Degree,Yes,32,1,1
+Under 25,Male,24,Sales,Sales Representative,4,Bachelor's Degree,No,24,0,1
+35 - 44,Female,36,R&D,Healthcare Representative,3,Bachelor's Degree,No,38,0,1
+35 - 44,Female,36,R&D,Manufacturing Director,2,Master's Degree,No,37,0,1
+45 - 54,Male,48,R&D,Research Director,3,Master's Degree,No,49,0,1
+Under 25,Male,24,R&D,Research Scientist,4,Bachelor's Degree,No,24,0,1
+25 - 34,Male,24,Sales,Sales Executive,2,Associates Degree,No,26,0,1
+Under 25,Male,24,R&D,Laboratory Technician,2,Associates Degree,No,24,0,1
+45 - 54,Male,48,HR,Manager,2,Bachelor's Degree,No,50,0,1
+25 - 34,Male,24,Sales,Sales Representative,3,High School,No,25,0,1
+Under 25,Female,24,R&D,Laboratory Technician,3,Bachelor's Degree,Yes,24,1,1
+25 - 34,Male,30,Sales,Sales Representative,1,Master's Degree,Yes,30,1,1
+25 - 34,Male,33,R&D,Research Scientist,4,Associates Degree,No,34,0,1
+25 - 34,Male,30,Sales,Sales Executive,1,Master's Degree,Yes,31,1,1
+35 - 44,Male,33,R&D,Laboratory Technician,4,Associates Degree,No,35,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,Master's Degree,No,31,0,1
+25 - 34,Female,27,R&D,Research Scientist,3,Master's Degree,No,27,0,1
+35 - 44,Male,36,Sales,Sales Executive,3,Bachelor's Degree,No,37,0,1
+Under 25,Female,18,R&D,Research Scientist,2,Bachelor's Degree,No,20,0,1
+35 - 44,Female,42,R&D,Healthcare Representative,4,Master's Degree,No,42,0,1
+35 - 44,Male,42,R&D,Research Director,4,Master's Degree,No,43,0,1
+35 - 44,Female,36,R&D,Research Scientist,1,High School,No,38,0,1
+35 - 44,Male,42,R&D,Laboratory Technician,3,Doctoral Degree,No,43,0,1
+45 - 54,Female,48,R&D,Manager,1,Master's Degree,No,48,0,1
+35 - 44,Female,42,HR,Human Resources,3,Master's Degree,No,44,0,1
+25 - 34,Female,33,Sales,Sales Representative,3,Bachelor's Degree,No,34,0,1
+25 - 34,Male,27,Sales,Sales Representative,1,High School,Yes,27,1,1
+Under 25,Male,21,Sales,Sales Representative,3,High School,No,21,0,1
+35 - 44,Male,42,R&D,Manager,4,Master's Degree,No,44,0,1
+Under 25,Male,21,R&D,Research Scientist,3,High School,No,22,0,1
+25 - 34,Male,33,Sales,Sales Executive,3,Master's Degree,No,33,0,1
+25 - 34,Female,30,R&D,Research Scientist,4,Master's Degree,No,32,0,1
+25 - 34,Female,30,R&D,Research Scientist,3,Bachelor's Degree,No,30,0,1
+45 - 54,Female,51,Sales,Sales Executive,1,High School,No,53,0,1
+25 - 34,Male,33,R&D,Research Scientist,4,Doctoral Degree,No,34,0,1
+45 - 54,Female,45,Sales,Sales Executive,1,Master's Degree,Yes,45,1,1
+25 - 34,Female,24,R&D,Laboratory Technician,4,Bachelor's Degree,No,26,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,3,Bachelor's Degree,No,37,0,1
+25 - 34,Female,27,Sales,Sales Executive,3,Associates Degree,No,29,0,1
+35 - 44,Male,33,R&D,Research Scientist,4,Master's Degree,No,35,0,1
+25 - 34,Male,33,R&D,Healthcare Representative,4,Bachelor's Degree,No,33,0,1
+45 - 54,Male,54,HR,Human Resources,2,Master's Degree,No,54,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,2,Associates Degree,No,36,0,1
+25 - 34,Male,27,R&D,Research Scientist,4,Master's Degree,No,27,0,1
+Under 25,Male,18,R&D,Research Scientist,3,High School,Yes,20,1,1
+25 - 34,Male,33,R&D,Research Scientist,1,Bachelor's Degree,Yes,33,1,1
+35 - 44,Male,33,R&D,Laboratory Technician,3,Bachelor's Degree,No,35,0,1
+Under 25,Male,21,R&D,Research Scientist,1,Bachelor's Degree,No,23,0,1
+25 - 34,Male,24,Sales,Sales Executive,2,Bachelor's Degree,No,25,0,1
+35 - 44,Female,36,Sales,Sales Executive,4,Master's Degree,No,38,0,1
+25 - 34,Male,27,R&D,Research Scientist,4,Master's Degree,No,29,0,1
+45 - 54,Male,48,Sales,Sales Executive,2,High School,No,48,0,1
+25 - 34,Female,27,Sales,Sales Executive,4,High School,No,27,0,1
+35 - 44,Male,36,R&D,Research Scientist,4,Associates Degree,No,37,0,1
+45 - 54,Male,48,R&D,Laboratory Technician,3,High School,No,50,0,1
+25 - 34,Female,33,R&D,Healthcare Representative,2,Bachelor's Degree,No,34,0,1
+Under 25,Female,24,Sales,Sales Executive,3,Associates Degree,Yes,24,1,1
+35 - 44,Female,39,R&D,Healthcare Representative,3,Master's Degree,No,39,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,Bachelor's Degree,No,32,0,1
+45 - 54,Male,48,Sales,Sales Executive,3,Associates Degree,Yes,50,1,1
+35 - 44,Female,36,R&D,Healthcare Representative,4,Master's Degree,No,38,0,1
+25 - 34,Female,27,R&D,Manufacturing Director,1,Associates Degree,No,27,0,1
+25 - 34,Female,30,R&D,Research Director,4,Associates Degree,No,32,0,1
+45 - 54,Male,45,Sales,Sales Executive,1,Master's Degree,No,47,0,1
+35 - 44,Male,39,Sales,Sales Executive,1,Master's Degree,No,40,0,1
+45 - 54,Male,51,R&D,Research Director,3,Bachelor's Degree,No,53,0,1
+35 - 44,Male,39,HR,Manager,4,Master's Degree,No,41,0,1
+Over 55,Male,60,Sales,Sales Executive,1,Master's Degree,No,60,0,1
+25 - 34,Male,27,R&D,Manufacturing Director,1,Associates Degree,No,27,0,1
+35 - 44,Male,39,HR,Manager,3,Bachelor's Degree,No,41,0,1
+45 - 54,Male,48,Sales,Sales Representative,2,Master's Degree,No,50,0,1
+25 - 34,Female,27,R&D,Research Scientist,2,Associates Degree,Yes,28,1,1
+35 - 44,Female,36,R&D,Research Director,1,Bachelor's Degree,No,36,0,1
+35 - 44,Female,36,R&D,Manufacturing Director,3,Bachelor's Degree,No,38,0,1
+35 - 44,Male,42,R&D,Laboratory Technician,3,Bachelor's Degree,No,44,0,1
+45 - 54,Female,45,Sales,Sales Executive,3,Bachelor's Degree,No,47,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,Doctoral Degree,No,30,0,1
+25 - 34,Male,27,Sales,Sales Representative,3,Bachelor's Degree,No,29,0,1
+35 - 44,Male,42,R&D,Research Scientist,3,Bachelor's Degree,Yes,42,1,1
+35 - 44,Male,42,Sales,Sales Executive,4,Bachelor's Degree,No,43,0,1
+25 - 34,Female,33,R&D,Healthcare Representative,3,Associates Degree,No,34,0,1
+Under 25,Male,21,R&D,Laboratory Technician,1,High School,No,23,0,1
+35 - 44,Female,39,HR,Human Resources,2,Bachelor's Degree,No,39,0,1
+Over 55,Male,54,R&D,Healthcare Representative,4,Bachelor's Degree,No,56,0,1
+35 - 44,Female,39,R&D,Research Scientist,4,High School,No,40,0,1
+25 - 34,Female,27,R&D,Healthcare Representative,1,Bachelor's Degree,No,27,0,1
+25 - 34,Male,27,Sales,Sales Representative,2,Bachelor's Degree,No,29,0,1
+45 - 54,Male,51,R&D,Laboratory Technician,4,Bachelor's Degree,No,53,0,1
+35 - 44,Female,33,R&D,Healthcare Representative,1,Master's Degree,No,35,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,4,Master's Degree,No,32,0,1
+35 - 44,Male,36,R&D,Research Scientist,3,Doctoral Degree,No,38,0,1
+25 - 34,Female,33,R&D,Manufacturing Director,1,Doctoral Degree,No,34,0,1
+45 - 54,Male,51,Sales,Manager,1,Master's Degree,No,52,0,1
+25 - 34,Male,33,R&D,Research Scientist,4,Master's Degree,Yes,33,1,1
+25 - 34,Female,24,Sales,Sales Executive,4,High School,No,25,0,1
+45 - 54,Male,45,Sales,Sales Representative,3,Associates Degree,No,45,0,1
+Under 25,Male,21,R&D,Research Scientist,3,High School,No,23,0,1
+45 - 54,Female,45,Sales,Sales Executive,3,Associates Degree,Yes,47,1,1
+25 - 34,Male,33,Sales,Sales Executive,4,Bachelor's Degree,No,34,0,1
+Over 55,Male,54,R&D,Manager,1,Bachelor's Degree,Yes,55,1,1
+35 - 44,Male,36,Sales,Sales Executive,1,Master's Degree,No,36,0,1
+45 - 54,Male,51,R&D,Research Scientist,4,Master's Degree,No,52,0,1
+25 - 34,Female,24,R&D,Laboratory Technician,4,Associates Degree,No,26,0,1
+25 - 34,Female,27,R&D,Healthcare Representative,3,Bachelor's Degree,No,29,0,1
+25 - 34,Male,24,Sales,Sales Executive,1,Bachelor's Degree,Yes,26,1,1
+25 - 34,Female,33,R&D,Research Scientist,4,Master's Degree,No,34,0,1
+45 - 54,Female,54,R&D,Manufacturing Director,1,Master's Degree,No,54,0,1
+25 - 34,Male,27,Sales,Sales Executive,4,High School,No,27,0,1
+35 - 44,Female,36,R&D,Research Scientist,1,High School,No,37,0,1
+35 - 44,Female,36,R&D,Manufacturing Director,1,Master's Degree,No,38,0,1
+25 - 34,Female,33,R&D,Research Scientist,1,Master's Degree,No,34,0,1
+35 - 44,Female,33,Sales,Sales Representative,4,Master's Degree,No,35,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,3,Bachelor's Degree,No,30,0,1
+35 - 44,Female,39,R&D,Healthcare Representative,2,Associates Degree,No,40,0,1
+25 - 34,Female,33,Sales,Sales Executive,1,Associates Degree,No,34,0,1
+35 - 44,Male,42,R&D,Manager,4,Bachelor's Degree,No,42,0,1
+Under 25,Male,21,R&D,Laboratory Technician,1,Bachelor's Degree,Yes,23,1,1
+Under 25,Male,24,R&D,Laboratory Technician,2,Bachelor's Degree,No,24,0,1
+45 - 54,Female,51,R&D,Laboratory Technician,3,Master's Degree,No,52,0,1
+45 - 54,Male,48,R&D,Research Director,3,Bachelor's Degree,No,50,0,1
+25 - 34,Female,27,R&D,Laboratory Technician,1,Associates Degree,Yes,29,1,1
+25 - 34,Male,33,R&D,Research Director,3,Bachelor's Degree,No,33,0,1
+25 - 34,Female,33,Sales,Sales Executive,1,Bachelor's Degree,Yes,33,1,1
+45 - 54,Female,45,R&D,Manager,4,Associates Degree,No,47,0,1
+35 - 44,Female,36,R&D,Manufacturing Director,2,Bachelor's Degree,No,36,0,1
+25 - 34,Male,27,R&D,Research Scientist,3,Associates Degree,No,29,0,1
+Over 55,Male,57,R&D,Research Director,2,Master's Degree,Yes,58,1,1
+35 - 44,Female,33,R&D,Research Scientist,3,Master's Degree,No,35,0,1
+35 - 44,Female,42,R&D,Manufacturing Director,4,Associates Degree,No,42,0,1
+25 - 34,Male,27,R&D,Research Scientist,3,Master's Degree,Yes,28,1,1
+35 - 44,Male,36,HR,Human Resources,2,Bachelor's Degree,No,36,0,1
+25 - 34,Female,30,R&D,Manufacturing Director,3,Bachelor's Degree,No,32,0,1
+35 - 44,Male,39,R&D,Laboratory Technician,3,Master's Degree,No,40,0,1
+25 - 34,Female,30,R&D,Manufacturing Director,4,Bachelor's Degree,No,30,0,1
+45 - 54,Female,45,R&D,Research Scientist,3,Bachelor's Degree,No,45,0,1
+35 - 44,Male,42,R&D,Manufacturing Director,2,Bachelor's Degree,No,42,0,1
+35 - 44,Male,36,R&D,Healthcare Representative,1,Bachelor's Degree,No,38,0,1
+25 - 34,Female,33,R&D,Research Scientist,4,Master's Degree,No,34,0,1
+45 - 54,Female,48,Sales,Sales Executive,4,Bachelor's Degree,Yes,49,1,1
+Over 55,Male,54,Sales,Sales Executive,4,High School,Yes,55,1,1
+35 - 44,Male,42,R&D,Research Director,1,Associates Degree,No,43,0,1
+25 - 34,Male,27,R&D,Research Director,4,High School,No,27,0,1
+35 - 44,Male,33,R&D,Manufacturing Director,3,Bachelor's Degree,No,35,0,1
+25 - 34,Female,27,Sales,Sales Executive,2,Master's Degree,No,28,0,1
+25 - 34,Male,33,HR,Human Resources,4,Associates Degree,No,34,0,1
+25 - 34,Female,24,R&D,Research Scientist,3,Associates Degree,Yes,26,1,1
+25 - 34,Male,27,R&D,Research Scientist,4,Bachelor's Degree,No,27,0,1
+45 - 54,Female,51,Sales,Manager,3,Master's Degree,No,51,0,1
+35 - 44,Male,42,R&D,Healthcare Representative,2,Bachelor's Degree,No,44,0,1
+25 - 34,Male,24,R&D,Research Scientist,1,High School,No,25,0,1
+25 - 34,Male,33,Sales,Sales Executive,1,Bachelor's Degree,No,33,0,1
+35 - 44,Female,33,R&D,Research Scientist,1,High School,No,35,0,1
+35 - 44,Male,36,Sales,Sales Executive,4,Associates Degree,No,36,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,Master's Degree,No,32,0,1
+25 - 34,Male,30,R&D,Research Scientist,4,Master's Degree,No,30,0,1
+45 - 54,Female,51,Sales,Sales Executive,4,Associates Degree,No,53,0,1
+45 - 54,Male,45,Sales,Sales Executive,1,Bachelor's Degree,No,45,0,1
+25 - 34,Female,30,R&D,Research Scientist,3,Associates Degree,No,32,0,1
+45 - 54,Female,51,R&D,Manufacturing Director,4,Master's Degree,No,52,0,1
+35 - 44,Male,36,Sales,Sales Executive,3,Master's Degree,No,37,0,1
+25 - 34,Male,27,HR,Human Resources,4,Associates Degree,No,28,0,1
+Under 25,Male,21,R&D,Manufacturing Director,4,Associates Degree,No,22,0,1
+35 - 44,Male,42,R&D,Laboratory Technician,4,Master's Degree,No,44,0,1
+35 - 44,Male,42,R&D,Research Scientist,4,High School,No,42,0,1
+35 - 44,Male,36,HR,Human Resources,1,Bachelor's Degree,No,36,0,1
+25 - 34,Male,24,Sales,Sales Executive,1,High School,No,25,0,1
+35 - 44,Female,33,R&D,Manufacturing Director,3,Bachelor's Degree,No,35,0,1
+35 - 44,Female,33,R&D,Research Scientist,2,Master's Degree,Yes,35,1,1
+25 - 34,Male,30,R&D,Laboratory Technician,4,Bachelor's Degree,No,32,0,1
+25 - 34,Male,24,Sales,Sales Executive,1,High School,No,25,0,1
+45 - 54,Female,48,R&D,Research Scientist,1,Bachelor's Degree,No,49,0,1
+Under 25,Male,24,R&D,Laboratory Technician,4,High School,No,24,0,1
+25 - 34,Male,30,Sales,Sales Executive,2,Associates Degree,No,32,0,1
+35 - 44,Male,36,Sales,Sales Representative,2,Bachelor's Degree,No,38,0,1
+35 - 44,Female,42,R&D,Laboratory Technician,4,Bachelor's Degree,No,42,0,1
+25 - 34,Male,30,R&D,Research Scientist,4,Master's Degree,No,31,0,1
+25 - 34,Female,27,Sales,Sales Representative,3,Bachelor's Degree,Yes,29,1,1
+45 - 54,Male,51,Sales,Sales Executive,4,Bachelor's Degree,No,53,0,1
+35 - 44,Male,33,R&D,Manufacturing Director,2,Bachelor's Degree,No,35,0,1
+35 - 44,Female,36,Sales,Sales Representative,4,Associates Degree,No,37,0,1
+45 - 54,Female,51,R&D,Research Director,4,Master's Degree,No,53,0,1
+35 - 44,Female,42,R&D,Healthcare Representative,4,Bachelor's Degree,No,43,0,1
+45 - 54,Female,45,Sales,Sales Executive,4,Associates Degree,No,47,0,1
+35 - 44,Male,36,Sales,Sales Executive,2,Associates Degree,No,37,0,1
+45 - 54,Male,48,R&D,Manager,1,Master's Degree,No,50,0,1
+35 - 44,Female,39,HR,Human Resources,4,Bachelor's Degree,No,39,0,1
+25 - 34,Male,33,HR,Human Resources,2,Associates Degree,No,33,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,4,Master's Degree,Yes,32,1,1
+25 - 34,Female,27,R&D,Laboratory Technician,4,High School,No,29,0,1
+35 - 44,Male,42,R&D,Research Scientist,1,Associates Degree,No,44,0,1
+25 - 34,Male,27,Sales,Sales Executive,4,Master's Degree,No,28,0,1
+Over 55,Male,57,R&D,Laboratory Technician,4,High School,Yes,58,1,1
+35 - 44,Female,42,R&D,Manufacturing Director,2,Bachelor's Degree,No,43,0,1
+Under 25,Female,18,Sales,Sales Representative,3,Bachelor's Degree,Yes,20,1,1
+Under 25,Female,21,R&D,Research Scientist,4,High School,Yes,21,1,1
+35 - 44,Male,36,R&D,Healthcare Representative,4,High School,No,36,0,1
+45 - 54,Female,45,Sales,Sales Representative,4,Master's Degree,No,47,0,1
+Under 25,Female,21,R&D,Manufacturing Director,3,High School,Yes,22,1,1
+35 - 44,Female,39,R&D,Laboratory Technician,4,Master's Degree,Yes,41,1,1
+25 - 34,Female,27,R&D,Research Scientist,3,Bachelor's Degree,No,28,0,1
+35 - 44,Male,39,R&D,Laboratory Technician,1,Bachelor's Degree,Yes,39,1,1
+25 - 34,Female,27,R&D,Research Scientist,3,Bachelor's Degree,No,27,0,1
+25 - 34,Male,33,R&D,Laboratory Technician,2,Bachelor's Degree,No,34,0,1
+35 - 44,Female,42,Sales,Sales Executive,3,Associates Degree,No,42,0,1
+25 - 34,Male,33,R&D,Research Scientist,1,Master's Degree,No,33,0,1
+Over 55,Female,57,R&D,Healthcare Representative,2,Bachelor's Degree,No,58,0,1
+25 - 34,Male,30,Sales,Sales Representative,3,Master's Degree,No,31,0,1
+35 - 44,Female,33,R&D,Healthcare Representative,4,High School,No,35,0,1
+45 - 54,Female,48,R&D,Laboratory Technician,2,Associates Degree,No,49,0,1
+45 - 54,Male,48,R&D,Research Scientist,3,Master's Degree,No,48,0,1
+25 - 34,Female,30,Sales,Sales Executive,3,Associates Degree,No,31,0,1
+35 - 44,Male,36,R&D,Research Scientist,4,Master's Degree,No,36,0,1
+35 - 44,Female,36,R&D,Research Director,1,Bachelor's Degree,No,38,0,1
+25 - 34,Female,30,R&D,Laboratory Technician,2,Bachelor's Degree,No,32,0,1
+25 - 34,Male,24,Sales,Sales Representative,2,Associates Degree,Yes,25,1,1
+35 - 44,Male,39,Sales,Sales Executive,2,Master's Degree,No,40,0,1
+25 - 34,Male,24,Sales,Sales Executive,1,Bachelor's Degree,No,26,0,1
+35 - 44,Male,39,R&D,Laboratory Technician,1,Bachelor's Degree,No,41,0,1
+35 - 44,Male,36,R&D,Laboratory Technician,3,Master's Degree,No,36,0,1
+Under 25,Male,18,Sales,Sales Representative,2,Bachelor's Degree,Yes,19,1,1
+Under 25,Male,18,R&D,Laboratory Technician,1,Bachelor's Degree,Yes,20,1,1
+25 - 34,Female,30,R&D,Healthcare Representative,4,Bachelor's Degree,No,31,0,1
+35 - 44,Male,39,R&D,Research Scientist,2,Master's Degree,No,40,0,1
+25 - 34,Female,30,R&D,Manufacturing Director,1,Master's Degree,No,32,0,1
+35 - 44,Male,36,Sales,Sales Executive,4,High School,Yes,36,1,1
+25 - 34,Female,33,R&D,Healthcare Representative,4,Bachelor's Degree,No,33,0,1
+35 - 44,Male,36,Sales,Sales Executive,3,Master's Degree,Yes,37,1,1
+45 - 54,Male,45,R&D,Laboratory Technician,2,Associates Degree,No,45,0,1
+25 - 34,Female,27,Sales,Sales Representative,4,Bachelor's Degree,No,29,0,1
+35 - 44,Female,33,Sales,Sales Executive,3,Bachelor's Degree,No,35,0,1
+45 - 54,Male,51,R&D,Manager,4,Associates Degree,No,52,0,1
+Over 55,Male,57,R&D,Research Scientist,3,Bachelor's Degree,Yes,58,1,1
+45 - 54,Male,51,Sales,Manager,3,Associates Degree,No,53,0,1
+25 - 34,Male,30,Sales,Sales Executive,3,Associates Degree,No,30,0,1
+35 - 44,Female,36,Sales,Sales Executive,4,Bachelor's Degree,No,38,0,1
+35 - 44,Male,33,Sales,Sales Executive,4,Master's Degree,No,35,0,1
+35 - 44,Male,39,Sales,Sales Executive,3,Doctoral Degree,No,39,0,1
+35 - 44,Female,39,Sales,Sales Executive,2,Bachelor's Degree,Yes,40,1,1
+45 - 54,Male,45,R&D,Manufacturing Director,3,Master's Degree,No,47,0,1
+35 - 44,Male,36,Sales,Sales Executive,4,Master's Degree,No,36,0,1
+25 - 34,Male,30,R&D,Research Scientist,1,Associates Degree,Yes,31,1,1
+25 - 34,Male,33,Sales,Manager,3,Bachelor's Degree,No,33,0,1
+25 - 34,Female,27,R&D,Research Scientist,1,Bachelor's Degree,Yes,29,1,1
+25 - 34,Female,33,R&D,Research Scientist,4,High School,No,33,0,1
+45 - 54,Female,45,R&D,Laboratory Technician,4,Master's Degree,No,45,0,1
+45 - 54,Male,48,R&D,Research Director,4,Associates Degree,No,50,0,1
+25 - 34,Female,33,R&D,Healthcare Representative,2,Master's Degree,No,33,0,1
+35 - 44,Male,39,R&D,Research Director,3,Bachelor's Degree,No,41,0,1
+25 - 34,Female,27,R&D,Laboratory Technician,2,Master's Degree,No,27,0,1
+45 - 54,Male,45,R&D,Laboratory Technician,1,Associates Degree,No,45,0,1
+45 - 54,Female,45,Sales,Sales Executive,4,Associates Degree,No,47,0,1
+25 - 34,Female,30,R&D,Research Scientist,3,Bachelor's Degree,Yes,30,1,1
+45 - 54,Male,48,R&D,Manufacturing Director,3,Bachelor's Degree,No,50,0,1
+35 - 44,Male,36,R&D,Research Scientist,3,High School,No,38,0,1
+45 - 54,Male,45,R&D,Manufacturing Director,3,Associates Degree,No,46,0,1
+Under 25,Female,24,R&D,Manufacturing Director,3,High School,No,24,0,1
+35 - 44,Male,33,R&D,Laboratory Technician,2,Master's Degree,Yes,35,1,1
+25 - 34,Female,30,R&D,Manufacturing Director,1,High School,No,31,0,1
+Under 25,Male,18,R&D,Research Scientist,4,Associates Degree,No,18,0,1
+45 - 54,Female,54,R&D,Manufacturing Director,3,Bachelor's Degree,No,54,0,1
+35 - 44,Female,33,R&D,Healthcare Representative,3,Master's Degree,No,35,0,1
+25 - 34,Female,30,R&D,Research Director,1,Associates Degree,No,30,0,1
+Under 25,Female,18,R&D,Research Scientist,1,Bachelor's Degree,Yes,20,1,1
+25 - 34,Female,30,R&D,Laboratory Technician,2,Bachelor's Degree,Yes,30,1,1
+25 - 34,Male,24,R&D,Manufacturing Director,4,Associates Degree,No,26,0,1
+Under 25,Male,21,R&D,Laboratory Technician,1,High School,No,22,0,1
+45 - 54,Male,48,R&D,Healthcare Representative,3,Bachelor's Degree,No,48,0,1
+45 - 54,Male,48,R&D,Healthcare Representative,3,Master's Degree,No,48,0,1
+35 - 44,Female,39,R&D,Manufacturing Director,3,Associates Degree,No,41,0,1
+35 - 44,Female,39,R&D,Manufacturing Director,4,High School,No,39,0,1
+25 - 34,Female,27,R&D,Manufacturing Director,4,Master's Degree,No,27,0,1
+35 - 44,Male,33,R&D,Laboratory Technician,4,Bachelor's Degree,No,35,0,1
+35 - 44,Male,42,Sales,Manager,3,Associates Degree,No,42,0,1
+45 - 54,Male,48,R&D,Laboratory Technician,4,Bachelor's Degree,No,50,0,1
+Over 55,Female,57,R&D,Manufacturing Director,4,Bachelor's Degree,No,59,0,1
+35 - 44,Female,36,R&D,Healthcare Representative,2,Associates Degree,Yes,37,1,1
+Over 55,Male,54,R&D,Healthcare Representative,2,Master's Degree,No,55,0,1
+35 - 44,Female,39,R&D,Research Director,3,High School,No,41,0,1
+35 - 44,Male,36,Sales,Sales Executive,4,Master's Degree,No,38,0,1
+25 - 34,Male,24,Sales,Sales Executive,1,Associates Degree,Yes,26,1,1
+45 - 54,Female,51,Sales,Manager,4,High School,Yes,52,1,1
+35 - 44,Female,42,Sales,Sales Executive,4,Bachelor's Degree,No,44,0,1
+45 - 54,Female,48,Sales,Sales Executive,3,Bachelor's Degree,No,50,0,1
+35 - 44,Female,36,R&D,Laboratory Technician,1,Master's Degree,Yes,36,1,1
+35 - 44,Female,39,R&D,Manufacturing Director,1,Bachelor's Degree,No,39,0,1
+25 - 34,Female,33,Sales,Sales Representative,4,High School,No,33,0,1
+45 - 54,Female,45,Sales,Manager,4,Associates Degree,No,45,0,1
+25 - 34,Female,30,R&D,Laboratory Technician,3,Master's Degree,No,32,0,1
+25 - 34,Male,33,Sales,Sales Executive,4,Master's Degree,No,34,0,1
+Over 55,Male,57,Sales,Manager,4,Associates Degree,No,59,0,1
+45 - 54,Male,45,HR,Human Resources,2,Master's Degree,No,45,0,1
+45 - 54,Female,51,Sales,Sales Executive,2,Bachelor's Degree,No,53,0,1
+35 - 44,Male,36,R&D,Laboratory Technician,3,Bachelor's Degree,Yes,36,1,1
+25 - 34,Male,24,R&D,Research Scientist,1,Bachelor's Degree,Yes,26,1,1
+25 - 34,Female,33,Sales,Sales Representative,3,Master's Degree,No,34,0,1
+25 - 34,Male,27,Sales,Sales Representative,2,High School,No,28,0,1
+35 - 44,Male,36,R&D,Research Scientist,3,Master's Degree,No,38,0,1
+45 - 54,Male,48,R&D,Research Director,3,Master's Degree,No,50,0,1
+35 - 44,Female,36,R&D,Healthcare Representative,2,Bachelor's Degree,No,37,0,1
+35 - 44,Male,39,Sales,Sales Executive,1,Bachelor's Degree,No,40,0,1
+25 - 34,Female,24,R&D,Research Scientist,3,High School,No,26,0,1
+45 - 54,Male,45,R&D,Research Director,4,Master's Degree,No,46,0,1
+45 - 54,Female,54,Sales,Sales Executive,3,Master's Degree,No,54,0,1
+Over 55,Female,54,R&D,Research Scientist,3,Bachelor's Degree,No,56,0,1
+35 - 44,Female,36,R&D,Manufacturing Director,4,Doctoral Degree,No,36,0,1
+Over 55,Male,54,R&D,Manager,1,High School,No,55,0,1
+35 - 44,Male,42,Sales,Sales Executive,4,Bachelor's Degree,No,43,0,1
+Under 25,Female,18,Sales,Sales Representative,4,Bachelor's Degree,Yes,20,1,1
+Under 25,Female,21,R&D,Laboratory Technician,1,Bachelor's Degree,Yes,21,1,1
+45 - 54,Female,45,R&D,Research Scientist,1,Master's Degree,No,46,0,1
+45 - 54,Male,51,R&D,Research Scientist,3,Master's Degree,Yes,51,1,1
+25 - 34,Male,27,R&D,Healthcare Representative,1,Associates Degree,Yes,28,1,1
+25 - 34,Male,24,R&D,Laboratory Technician,1,Associates Degree,No,26,0,1
+25 - 34,Male,30,R&D,Manufacturing Director,1,Bachelor's Degree,No,30,0,1
+35 - 44,Female,39,R&D,Research Scientist,3,Associates Degree,No,41,0,1
+35 - 44,Female,36,R&D,Healthcare Representative,3,High School,No,38,0,1
+35 - 44,Male,39,R&D,Healthcare Representative,4,Master's Degree,No,40,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,3,Doctoral Degree,No,27,0,1
+Over 55,Male,54,R&D,Manufacturing Director,2,High School,No,55,0,1
+25 - 34,Female,27,R&D,Research Scientist,3,Bachelor's Degree,No,28,0,1
+35 - 44,Male,42,HR,Human Resources,1,Associates Degree,Yes,44,1,1
+25 - 34,Male,33,R&D,Healthcare Representative,4,Bachelor's Degree,No,33,0,1
+35 - 44,Male,33,Sales,Sales Executive,1,Bachelor's Degree,Yes,35,1,1
+25 - 34,Female,33,R&D,Research Scientist,3,Master's Degree,Yes,33,1,1
+25 - 34,Male,27,R&D,Laboratory Technician,3,Associates Degree,No,28,0,1
+25 - 34,Male,33,R&D,Healthcare Representative,4,High School,No,34,0,1
+35 - 44,Female,36,Sales,Sales Executive,4,Master's Degree,No,37,0,1
+25 - 34,Male,24,R&D,Laboratory Technician,4,High School,Yes,25,1,1
+25 - 34,Male,24,R&D,Laboratory Technician,3,Bachelor's Degree,Yes,26,1,1
+25 - 34,Male,33,R&D,Research Scientist,2,Bachelor's Degree,Yes,33,1,1
+35 - 44,Male,42,R&D,Manager,1,Associates Degree,No,42,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,2,Bachelor's Degree,Yes,28,1,1
+45 - 54,Male,48,Sales,Sales Executive,3,Master's Degree,Yes,50,1,1
+25 - 34,Female,33,Sales,Sales Executive,2,Bachelor's Degree,No,33,0,1
+25 - 34,Male,33,R&D,Research Scientist,4,Master's Degree,No,34,0,1
+45 - 54,Male,48,R&D,Manager,4,Master's Degree,No,48,0,1
+45 - 54,Female,45,Sales,Sales Executive,3,Master's Degree,No,45,0,1
+45 - 54,Male,51,R&D,Healthcare Representative,2,Master's Degree,No,52,0,1
+35 - 44,Male,36,Sales,Sales Executive,3,Master's Degree,No,38,0,1
+25 - 34,Female,27,R&D,Research Scientist,4,Master's Degree,No,29,0,1
+25 - 34,Female,27,R&D,Manufacturing Director,2,Bachelor's Degree,No,28,0,1
+45 - 54,Male,45,Sales,Manager,3,High School,No,46,0,1
+35 - 44,Male,36,Sales,Sales Executive,2,Associates Degree,No,38,0,1
+35 - 44,Female,42,R&D,Manufacturing Director,1,Bachelor's Degree,No,43,0,1
+35 - 44,Male,39,R&D,Healthcare Representative,4,Bachelor's Degree,Yes,39,1,1
+35 - 44,Male,39,R&D,Research Director,3,Bachelor's Degree,No,40,0,1
+Under 25,Female,21,R&D,Research Scientist,2,High School,No,21,0,1
+35 - 44,Male,39,R&D,Laboratory Technician,2,Bachelor's Degree,No,39,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,4,Master's Degree,No,36,0,1
+25 - 34,Male,30,Sales,Sales Representative,4,Bachelor's Degree,No,31,0,1
+25 - 34,Male,27,R&D,Research Scientist,2,High School,No,28,0,1
+35 - 44,Male,33,Sales,Sales Executive,4,Associates Degree,No,35,0,1
+45 - 54,Male,48,Sales,Sales Executive,2,Master's Degree,No,49,0,1
+25 - 34,Male,33,R&D,Manufacturing Director,3,Associates Degree,No,34,0,1
+25 - 34,Female,27,R&D,Research Scientist,2,Bachelor's Degree,No,29,0,1
+35 - 44,Male,42,R&D,Laboratory Technician,4,Bachelor's Degree,No,42,0,1
+25 - 34,Male,27,R&D,Manufacturing Director,4,High School,No,29,0,1
+35 - 44,Male,36,HR,Human Resources,3,Bachelor's Degree,No,38,0,1
+25 - 34,Male,27,R&D,Research Scientist,3,Bachelor's Degree,No,28,0,1
+Under 25,Male,18,R&D,Laboratory Technician,3,High School,Yes,18,1,1
+25 - 34,Female,33,Sales,Sales Executive,1,Master's Degree,Yes,33,1,1
+35 - 44,Male,39,R&D,Laboratory Technician,4,Master's Degree,No,41,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,3,Bachelor's Degree,Yes,31,1,1
+35 - 44,Female,36,R&D,Healthcare Representative,4,Associates Degree,No,37,0,1
+25 - 34,Male,27,R&D,Research Scientist,3,Bachelor's Degree,No,27,0,1
+25 - 34,Female,33,Sales,Sales Executive,3,High School,No,34,0,1
+35 - 44,Male,33,HR,Human Resources,3,Master's Degree,No,35,0,1
+25 - 34,Female,27,Sales,Sales Executive,1,High School,Yes,29,1,1
+35 - 44,Female,39,R&D,Research Director,3,Master's Degree,No,40,0,1
+35 - 44,Male,42,Sales,Sales Executive,1,Bachelor's Degree,Yes,42,1,1
+35 - 44,Male,42,Sales,Sales Executive,1,Master's Degree,No,42,0,1
+35 - 44,Male,33,R&D,Laboratory Technician,3,Master's Degree,No,35,0,1
+Under 25,Male,24,R&D,Laboratory Technician,2,Bachelor's Degree,No,24,0,1
+25 - 34,Female,27,R&D,Laboratory Technician,4,High School,Yes,28,1,1
+25 - 34,Male,24,R&D,Laboratory Technician,4,Master's Degree,No,26,0,1
+25 - 34,Male,30,Sales,Sales Executive,3,Bachelor's Degree,No,30,0,1
+35 - 44,Female,39,R&D,Research Scientist,4,Associates Degree,No,40,0,1
+35 - 44,Male,33,R&D,Manufacturing Director,2,Bachelor's Degree,No,35,0,1
+25 - 34,Male,33,R&D,Healthcare Representative,1,Bachelor's Degree,No,34,0,1
+35 - 44,Male,33,R&D,Laboratory Technician,4,Master's Degree,No,35,0,1
+35 - 44,Female,42,Sales,Sales Executive,3,Bachelor's Degree,Yes,43,1,1
+25 - 34,Female,30,Sales,Sales Representative,1,High School,No,32,0,1
+Over 55,Female,54,R&D,Manager,1,Master's Degree,No,56,0,1
+25 - 34,Female,27,R&D,Laboratory Technician,4,High School,No,29,0,1
+Under 25,Male,18,R&D,Research Scientist,1,Associates Degree,No,19,0,1
+45 - 54,Female,45,R&D,Research Scientist,3,Bachelor's Degree,No,45,0,1
+35 - 44,Female,36,R&D,Manufacturing Director,4,Bachelor's Degree,No,37,0,1
+Under 25,Male,18,R&D,Laboratory Technician,3,Bachelor's Degree,No,20,0,1
+35 - 44,Male,42,R&D,Research Scientist,3,Master's Degree,Yes,44,1,1
+45 - 54,Female,51,R&D,Manager,3,Associates Degree,No,53,0,1
+25 - 34,Female,27,R&D,Research Scientist,4,High School,No,29,0,1
+Under 25,Male,21,R&D,Research Scientist,4,Master's Degree,Yes,22,1,1
+45 - 54,Female,45,Sales,Manager,1,Bachelor's Degree,No,46,0,1
+35 - 44,Male,42,R&D,Research Scientist,3,Bachelor's Degree,No,44,0,1
+25 - 34,Male,33,HR,Human Resources,3,Bachelor's Degree,No,33,0,1
+35 - 44,Male,39,R&D,Research Scientist,1,Associates Degree,Yes,41,1,1
+25 - 34,Male,30,Sales,Sales Executive,1,Master's Degree,No,30,0,1
+35 - 44,Male,39,Sales,Sales Executive,2,Master's Degree,No,40,0,1
+45 - 54,Female,48,R&D,Manager,1,Bachelor's Degree,No,50,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,1,Master's Degree,No,28,0,1
+45 - 54,Male,45,R&D,Research Director,2,Associates Degree,No,46,0,1
+35 - 44,Male,33,Sales,Sales Executive,1,Master's Degree,No,35,0,1
+Under 25,Female,24,R&D,Laboratory Technician,2,Associates Degree,Yes,24,1,1
+25 - 34,Female,33,Sales,Sales Executive,3,Bachelor's Degree,No,33,0,1
+35 - 44,Male,36,R&D,Laboratory Technician,3,Master's Degree,No,36,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,3,Master's Degree,No,30,0,1
+35 - 44,Male,42,R&D,Research Scientist,4,Master's Degree,No,44,0,1
+Under 25,Male,18,Sales,Sales Representative,4,Bachelor's Degree,No,20,0,1
+45 - 54,Male,45,R&D,Manufacturing Director,4,Master's Degree,No,46,0,1
+35 - 44,Male,42,HR,Human Resources,1,Doctoral Degree,No,42,0,1
+Over 55,Male,60,Sales,Sales Executive,4,Master's Degree,No,60,0,1
+25 - 34,Female,30,R&D,Laboratory Technician,2,Bachelor's Degree,No,32,0,1
+25 - 34,Female,30,R&D,Research Scientist,3,Associates Degree,No,32,0,1
+35 - 44,Female,36,R&D,Manufacturing Director,1,Bachelor's Degree,No,36,0,1
+25 - 34,Male,33,R&D,Research Scientist,4,Bachelor's Degree,No,33,0,1
+35 - 44,Female,39,Sales,Sales Executive,2,Bachelor's Degree,No,40,0,1
+25 - 34,Male,24,Sales,Sales Executive,4,Master's Degree,No,25,0,1
+25 - 34,Male,30,R&D,Research Scientist,2,Bachelor's Degree,No,30,0,1
+35 - 44,Female,42,R&D,Research Director,1,Doctoral Degree,No,42,0,1
+35 - 44,Female,33,Sales,Sales Executive,4,Associates Degree,No,35,0,1
+25 - 34,Male,27,R&D,Research Scientist,1,Bachelor's Degree,No,27,0,1
+45 - 54,Female,54,R&D,Manufacturing Director,3,Master's Degree,No,54,0,1
+35 - 44,Female,42,R&D,Research Scientist,4,High School,No,44,0,1
+Under 25,Female,18,R&D,Research Scientist,2,Bachelor's Degree,Yes,19,1,1
+25 - 34,Female,27,R&D,Research Scientist,4,Bachelor's Degree,No,29,0,1
+45 - 54,Male,54,R&D,Research Director,4,Bachelor's Degree,No,54,0,1
+25 - 34,Male,30,R&D,Healthcare Representative,1,Associates Degree,No,31,0,1
+25 - 34,Female,30,R&D,Healthcare Representative,1,Bachelor's Degree,No,31,0,1
+Over 55,Female,57,Sales,Sales Executive,4,Bachelor's Degree,No,59,0,1
+35 - 44,Male,42,R&D,Research Director,4,Bachelor's Degree,No,43,0,1
+45 - 54,Male,48,R&D,Manager,3,Associates Degree,No,49,0,1
+35 - 44,Male,36,R&D,Research Scientist,2,Bachelor's Degree,No,36,0,1
+45 - 54,Male,48,R&D,Laboratory Technician,2,Associates Degree,No,48,0,1
+25 - 34,Male,27,R&D,Research Scientist,3,Associates Degree,No,27,0,1
+25 - 34,Male,27,R&D,Healthcare Representative,4,Bachelor's Degree,No,29,0,1
+45 - 54,Male,48,R&D,Research Director,4,Bachelor's Degree,No,48,0,1
+25 - 34,Female,27,R&D,Research Director,4,Bachelor's Degree,No,29,0,1
+25 - 34,Female,33,R&D,Research Scientist,3,Bachelor's Degree,No,34,0,1
+35 - 44,Male,42,Sales,Manager,2,Bachelor's Degree,No,44,0,1
+25 - 34,Male,33,Sales,Sales Executive,3,Doctoral Degree,No,33,0,1
+Under 25,Female,18,R&D,Research Scientist,4,Bachelor's Degree,No,19,0,1
+Under 25,Male,21,R&D,Research Scientist,3,Associates Degree,No,23,0,1
+25 - 34,Male,24,Sales,Sales Representative,4,High School,Yes,25,1,1
+25 - 34,Male,24,R&D,Research Scientist,4,Associates Degree,No,26,0,1
+45 - 54,Female,45,Sales,Manager,2,Bachelor's Degree,Yes,45,1,1
+Over 55,Male,54,R&D,Healthcare Representative,2,High School,No,55,0,1
+Under 25,Female,21,R&D,Laboratory Technician,3,Associates Degree,Yes,21,1,1
+45 - 54,Female,45,Sales,Manager,2,Associates Degree,No,46,0,1
+25 - 34,Female,33,Sales,Sales Executive,1,Bachelor's Degree,No,34,0,1
+45 - 54,Male,51,Sales,Manager,2,Bachelor's Degree,No,51,0,1
+Over 55,Male,57,R&D,Manufacturing Director,4,Master's Degree,No,59,0,1
+25 - 34,Female,33,R&D,Laboratory Technician,2,Bachelor's Degree,No,34,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,3,Master's Degree,No,28,0,1
+35 - 44,Male,42,R&D,Manager,1,Associates Degree,No,44,0,1
+25 - 34,Male,33,HR,Human Resources,2,Bachelor's Degree,No,34,0,1
+35 - 44,Male,33,R&D,Research Scientist,3,High School,No,35,0,1
+35 - 44,Female,42,R&D,Research Scientist,2,Master's Degree,No,42,0,1
+35 - 44,Female,42,Sales,Sales Executive,4,Master's Degree,No,43,0,1
+35 - 44,Female,36,R&D,Manufacturing Director,2,Master's Degree,No,36,0,1
+35 - 44,Female,42,R&D,Healthcare Representative,4,Bachelor's Degree,Yes,44,1,1
+25 - 34,Male,27,R&D,Laboratory Technician,4,Bachelor's Degree,No,28,0,1
+45 - 54,Female,51,R&D,Laboratory Technician,3,Associates Degree,No,51,0,1
+25 - 34,Female,30,R&D,Manufacturing Director,3,Associates Degree,No,30,0,1
+25 - 34,Female,27,R&D,Laboratory Technician,3,Bachelor's Degree,Yes,29,1,1
+25 - 34,Male,27,R&D,Research Scientist,1,Bachelor's Degree,No,28,0,1
+25 - 34,Female,24,R&D,Research Scientist,2,Bachelor's Degree,No,25,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,Bachelor's Degree,No,32,0,1
+45 - 54,Female,45,R&D,Manager,2,Bachelor's Degree,No,45,0,1
+35 - 44,Female,39,R&D,Manager,2,Master's Degree,No,39,0,1
+Over 55,Male,57,R&D,Research Scientist,3,Master's Degree,No,58,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,3,Associates Degree,Yes,32,1,1
+35 - 44,Male,39,R&D,Research Scientist,1,Bachelor's Degree,Yes,39,1,1
+25 - 34,Female,30,R&D,Laboratory Technician,4,Bachelor's Degree,No,30,0,1
+35 - 44,Female,36,R&D,Healthcare Representative,3,Master's Degree,No,36,0,1
+45 - 54,Female,45,HR,Human Resources,1,Associates Degree,No,46,0,1
+25 - 34,Female,27,R&D,Laboratory Technician,4,Bachelor's Degree,No,28,0,1
+45 - 54,Female,48,R&D,Research Director,1,Bachelor's Degree,No,50,0,1
+35 - 44,Male,39,Sales,Sales Executive,2,Master's Degree,Yes,40,1,1
+45 - 54,Male,51,Sales,Sales Executive,2,Bachelor's Degree,Yes,52,1,1
+25 - 34,Female,30,R&D,Manager,1,Master's Degree,No,30,0,1
+35 - 44,Male,39,R&D,Manufacturing Director,3,Associates Degree,No,39,0,1
+25 - 34,Female,30,Sales,Sales Executive,3,Master's Degree,No,31,0,1
+35 - 44,Male,39,Sales,Sales Executive,2,Associates Degree,No,41,0,1
+25 - 34,Female,30,Sales,Sales Representative,2,Bachelor's Degree,Yes,31,1,1
+35 - 44,Male,42,R&D,Laboratory Technician,1,Bachelor's Degree,Yes,44,1,1
+35 - 44,Male,42,R&D,Manager,3,High School,No,42,0,1
+Over 55,Female,54,R&D,Manager,3,Associates Degree,No,55,0,1
+Over 55,Male,54,HR,Manager,2,Master's Degree,No,56,0,1
+35 - 44,Male,39,R&D,Research Scientist,3,Associates Degree,No,40,0,1
+25 - 34,Male,33,R&D,Healthcare Representative,4,Bachelor's Degree,No,34,0,1
+35 - 44,Male,39,R&D,Research Scientist,4,Bachelor's Degree,No,40,0,1
+35 - 44,Female,39,Sales,Sales Executive,1,Bachelor's Degree,No,41,0,1
+35 - 44,Male,33,R&D,Research Scientist,3,Master's Degree,No,35,0,1
+45 - 54,Male,51,HR,Manager,2,Bachelor's Degree,No,51,0,1
+35 - 44,Female,36,Sales,Sales Executive,1,Associates Degree,No,38,0,1
+25 - 34,Female,33,Sales,Sales Executive,1,Associates Degree,No,34,0,1
+25 - 34,Male,24,R&D,Laboratory Technician,4,High School,No,25,0,1
+Over 55,Female,57,R&D,Manufacturing Director,1,Master's Degree,Yes,58,1,1
+35 - 44,Male,39,R&D,Laboratory Technician,2,Master's Degree,No,40,0,1
+35 - 44,Female,36,Sales,Sales Executive,1,Bachelor's Degree,No,36,0,1
+45 - 54,Male,48,R&D,Manufacturing Director,4,Bachelor's Degree,No,48,0,1
+25 - 34,Female,27,Sales,Sales Representative,4,Bachelor's Degree,No,27,0,1
+45 - 54,Female,51,R&D,Manufacturing Director,2,Associates Degree,No,51,0,1
+Under 25,Female,18,R&D,Laboratory Technician,4,Bachelor's Degree,No,18,0,1
+35 - 44,Female,33,R&D,Laboratory Technician,4,Bachelor's Degree,No,35,0,1
+25 - 34,Male,27,Sales,Sales Executive,4,High School,No,27,0,1
+Over 55,Male,54,Sales,Sales Executive,3,Master's Degree,Yes,55,1,1
+Over 55,Male,54,R&D,Manufacturing Director,2,Bachelor's Degree,No,56,0,1
+25 - 34,Female,33,R&D,Research Scientist,3,High School,No,34,0,1
+35 - 44,Female,39,R&D,Healthcare Representative,3,High School,No,40,0,1
+25 - 34,Male,33,R&D,Laboratory Technician,3,Bachelor's Degree,No,34,0,1
+25 - 34,Female,30,Sales,Sales Representative,4,Bachelor's Degree,Yes,31,1,1
+35 - 44,Female,33,Sales,Sales Executive,3,Master's Degree,Yes,35,1,1
+35 - 44,Male,36,R&D,Research Scientist,3,Bachelor's Degree,No,38,0,1
+25 - 34,Female,33,R&D,Healthcare Representative,4,Master's Degree,No,34,0,1
+25 - 34,Male,27,Sales,Sales Executive,1,Bachelor's Degree,No,28,0,1
+25 - 34,Male,30,R&D,Manufacturing Director,3,Master's Degree,Yes,31,1,1
+35 - 44,Male,39,Sales,Sales Executive,4,Master's Degree,No,39,0,1
+45 - 54,Male,51,Sales,Sales Executive,2,Bachelor's Degree,No,51,0,1
+35 - 44,Female,39,R&D,Research Scientist,4,Bachelor's Degree,No,41,0,1
+35 - 44,Male,36,R&D,Research Scientist,3,High School,No,37,0,1
+25 - 34,Male,33,Sales,Sales Executive,4,High School,No,33,0,1
+25 - 34,Male,30,Sales,Sales Executive,2,High School,No,32,0,1
+35 - 44,Male,39,R&D,Healthcare Representative,3,Associates Degree,No,39,0,1
+25 - 34,Male,24,Sales,Sales Executive,3,High School,No,25,0,1
+45 - 54,Female,51,R&D,Manufacturing Director,3,Associates Degree,No,52,0,1
+35 - 44,Female,42,R&D,Research Scientist,3,Bachelor's Degree,No,43,0,1
+25 - 34,Female,27,Sales,Sales Executive,4,Bachelor's Degree,No,27,0,1
+25 - 34,Female,27,R&D,Research Scientist,3,Master's Degree,Yes,27,1,1
+25 - 34,Male,24,R&D,Research Scientist,4,High School,No,26,0,1
+35 - 44,Female,42,HR,Manager,1,Bachelor's Degree,No,42,0,1
+25 - 34,Female,30,R&D,Healthcare Representative,4,Master's Degree,No,32,0,1
+45 - 54,Female,45,R&D,Research Director,2,High School,No,47,0,1
+35 - 44,Female,33,R&D,Healthcare Representative,3,Master's Degree,No,35,0,1
+35 - 44,Female,36,R&D,Manufacturing Director,3,Master's Degree,No,36,0,1
+35 - 44,Female,39,Sales,Sales Executive,3,Master's Degree,No,39,0,1
+Under 25,Female,24,Sales,Sales Representative,2,Associates Degree,No,24,0,1
+Under 25,Female,18,R&D,Research Scientist,3,Bachelor's Degree,No,18,0,1
+25 - 34,Female,33,Sales,Sales Executive,2,Bachelor's Degree,No,33,0,1
+35 - 44,Female,36,R&D,Manufacturing Director,2,Associates Degree,No,36,0,1
+45 - 54,Female,48,R&D,Manager,4,Bachelor's Degree,No,48,0,1
+35 - 44,Female,36,R&D,Laboratory Technician,2,Associates Degree,No,38,0,1
+25 - 34,Female,27,R&D,Research Scientist,1,Bachelor's Degree,No,27,0,1
+25 - 34,Female,27,R&D,Laboratory Technician,2,High School,No,29,0,1
+35 - 44,Female,39,R&D,Laboratory Technician,3,Bachelor's Degree,No,40,0,1
+25 - 34,Female,30,Sales,Sales Executive,1,Master's Degree,No,31,0,1
+35 - 44,Female,42,Sales,Sales Executive,3,Doctoral Degree,No,44,0,1
+35 - 44,Female,39,R&D,Manufacturing Director,3,Bachelor's Degree,No,39,0,1
+35 - 44,Female,42,R&D,Laboratory Technician,4,Associates Degree,No,42,0,1
+25 - 34,Female,30,R&D,Research Scientist,1,Master's Degree,No,30,0,1
+25 - 34,Female,30,R&D,Laboratory Technician,3,Bachelor's Degree,No,31,0,1
+35 - 44,Female,39,R&D,Healthcare Representative,1,Bachelor's Degree,No,40,0,1
+35 - 44,Female,39,R&D,Healthcare Representative,4,Bachelor's Degree,No,40,0,1
+25 - 34,Female,27,R&D,Research Scientist,1,Bachelor's Degree,No,29,0,1
+45 - 54,Female,48,R&D,Research Director,1,Doctoral Degree,No,50,0,1
+45 - 54,Female,45,R&D,Manufacturing Director,4,Associates Degree,No,45,0,1
+25 - 34,Female,33,R&D,Research Scientist,2,Bachelor's Degree,No,34,0,1
+45 - 54,Female,45,Sales,Sales Executive,1,Bachelor's Degree,No,46,0,1
+45 - 54,Female,45,Sales,Manager,2,Master's Degree,No,47,0,1
+45 - 54,Female,48,Sales,Sales Executive,3,Master's Degree,No,48,0,1
+25 - 34,Female,30,Sales,Sales Executive,1,Master's Degree,No,30,0,1
+25 - 34,Female,24,HR,Human Resources,2,Bachelor's Degree,No,25,0,1
+45 - 54,Female,45,HR,Manager,3,Master's Degree,No,47,0,1
+25 - 34,Female,33,R&D,Laboratory Technician,2,Master's Degree,No,33,0,1
+35 - 44,Female,42,R&D,Manager,3,Bachelor's Degree,No,43,0,1
+35 - 44,Female,39,R&D,Manufacturing Director,3,Bachelor's Degree,No,40,0,1
+45 - 54,Female,48,R&D,Research Director,2,Master's Degree,No,49,0,1
+45 - 54,Female,45,R&D,Research Director,3,Master's Degree,No,47,0,1
+45 - 54,Female,54,R&D,Research Scientist,3,Associates Degree,No,54,0,1
+45 - 54,Female,51,R&D,Manager,3,Bachelor's Degree,No,51,0,1
+35 - 44,Female,36,R&D,Research Director,3,Bachelor's Degree,No,38,0,1
+25 - 34,Female,33,R&D,Research Scientist,4,Bachelor's Degree,No,34,0,1
+45 - 54,Female,45,R&D,Manufacturing Director,4,Associates Degree,No,45,0,1
+35 - 44,Female,36,R&D,Healthcare Representative,1,Master's Degree,No,36,0,1
+35 - 44,Female,36,R&D,Research Scientist,2,Bachelor's Degree,No,37,0,1
+25 - 34,Female,27,R&D,Research Scientist,3,Bachelor's Degree,No,27,0,1
+25 - 34,Female,30,R&D,Research Scientist,4,Master's Degree,No,32,0,1
+25 - 34,Female,27,R&D,Healthcare Representative,1,High School,No,29,0,1
+35 - 44,Female,33,R&D,Research Scientist,4,Master's Degree,No,35,0,1
+45 - 54,Female,51,R&D,Laboratory Technician,1,Master's Degree,No,52,0,1
+35 - 44,Female,39,R&D,Laboratory Technician,1,Associates Degree,No,40,0,1
+45 - 54,Female,48,R&D,Laboratory Technician,1,Master's Degree,No,49,0,1
+45 - 54,Female,48,R&D,Research Scientist,1,Master's Degree,No,48,0,1
+35 - 44,Female,39,R&D,Research Scientist,3,Master's Degree,No,40,0,1
+25 - 34,Female,33,R&D,Laboratory Technician,2,Bachelor's Degree,No,34,0,1
+25 - 34,Female,30,R&D,Research Scientist,2,Associates Degree,No,32,0,1
+35 - 44,Female,36,R&D,Laboratory Technician,3,Associates Degree,No,38,0,1
+25 - 34,Female,27,R&D,Laboratory Technician,3,Master's Degree,No,29,0,1
+35 - 44,Female,36,R&D,Laboratory Technician,3,Associates Degree,No,38,0,1
+45 - 54,Female,54,R&D,Research Scientist,4,Master's Degree,No,54,0,1
+25 - 34,Female,30,Sales,Sales Executive,4,Master's Degree,No,31,0,1
+35 - 44,Female,36,Sales,Sales Executive,4,Bachelor's Degree,No,36,0,1
+25 - 34,Female,30,Sales,Sales Executive,4,Master's Degree,No,31,0,1
+35 - 44,Female,36,Sales,Sales Executive,4,Associates Degree,No,38,0,1
+35 - 44,Female,39,Sales,Sales Executive,4,High School,No,39,0,1
+35 - 44,Female,36,Sales,Sales Executive,4,Master's Degree,No,36,0,1
+35 - 44,Female,39,Sales,Sales Executive,2,Associates Degree,No,40,0,1
+25 - 34,Female,27,Sales,Sales Representative,2,Bachelor's Degree,No,28,0,1
+35 - 44,Female,36,Sales,Sales Executive,1,Master's Degree,No,36,0,1
+45 - 54,Female,45,Sales,Manager,2,Bachelor's Degree,No,46,0,1
+25 - 34,Female,30,Sales,Sales Executive,4,Master's Degree,No,32,0,1
+Over 55,Female,54,Sales,Sales Executive,1,Doctoral Degree,No,56,0,1
+35 - 44,Female,39,Sales,Sales Executive,1,Associates Degree,No,40,0,1
+25 - 34,Female,30,HR,Human Resources,2,Associates Degree,No,31,0,1
+25 - 34,Female,30,R&D,Research Director,2,Doctoral Degree,No,31,0,1
+35 - 44,Female,36,R&D,Laboratory Technician,3,Bachelor's Degree,No,37,0,1
+25 - 34,Female,30,R&D,Manufacturing Director,3,Bachelor's Degree,No,30,0,1
+35 - 44,Female,39,R&D,Manufacturing Director,2,Bachelor's Degree,No,39,0,1
+45 - 54,Female,45,R&D,Laboratory Technician,3,Master's Degree,No,47,0,1
+25 - 34,Female,30,R&D,Laboratory Technician,2,Master's Degree,No,32,0,1
+Under 25,Female,21,R&D,Laboratory Technician,2,High School,No,23,0,1
+25 - 34,Female,27,R&D,Research Scientist,4,Bachelor's Degree,No,27,0,1
+25 - 34,Female,27,R&D,Research Scientist,1,Master's Degree,No,29,0,1
+45 - 54,Female,45,R&D,Research Director,2,Associates Degree,No,45,0,1
+35 - 44,Female,33,R&D,Healthcare Representative,2,Bachelor's Degree,No,35,0,1
+45 - 54,Female,54,R&D,Research Director,4,Bachelor's Degree,No,54,0,1
+25 - 34,Female,27,Sales,Sales Executive,3,Associates Degree,No,27,0,1
+35 - 44,Female,36,Sales,Sales Executive,2,Bachelor's Degree,No,38,0,1
+35 - 44,Female,36,Sales,Sales Executive,3,Master's Degree,No,36,0,1
+Under 25,Female,18,Sales,Sales Representative,3,Bachelor's Degree,No,20,0,1
+35 - 44,Female,36,Sales,Sales Representative,4,Master's Degree,No,36,0,1
+25 - 34,Female,33,Sales,Sales Executive,4,Associates Degree,No,34,0,1
+25 - 34,Female,24,Sales,Sales Representative,3,Bachelor's Degree,No,26,0,1
+45 - 54,Female,45,Sales,Sales Executive,3,Bachelor's Degree,No,45,0,1
+45 - 54,Female,48,Sales,Sales Executive,4,Master's Degree,No,49,0,1
+Under 25,Female,21,R&D,Research Scientist,3,Associates Degree,No,22,0,1
+35 - 44,Female,36,R&D,Research Scientist,2,Bachelor's Degree,No,38,0,1
+Under 25,Female,24,R&D,Research Scientist,4,High School,No,24,0,1
+25 - 34,Female,27,R&D,Laboratory Technician,4,Associates Degree,No,27,0,1
+35 - 44,Female,42,HR,Human Resources,4,Bachelor's Degree,No,44,0,1
+35 - 44,Female,42,R&D,Research Director,4,Bachelor's Degree,No,44,0,1
+45 - 54,Female,45,R&D,Manufacturing Director,2,Bachelor's Degree,No,47,0,1
+25 - 34,Female,30,R&D,Laboratory Technician,4,High School,No,31,0,1
+45 - 54,Female,48,R&D,Laboratory Technician,1,Bachelor's Degree,No,49,0,1
+35 - 44,Female,39,Sales,Sales Executive,3,High School,No,41,0,1
+25 - 34,Female,30,Sales,Sales Executive,4,Associates Degree,No,31,0,1
+25 - 34,Female,24,R&D,Research Scientist,3,Associates Degree,No,26,0,1
+35 - 44,Female,39,R&D,Manufacturing Director,1,Associates Degree,No,40,0,1
+25 - 34,Female,33,R&D,Healthcare Representative,4,Associates Degree,No,33,0,1
+45 - 54,Female,48,R&D,Healthcare Representative,3,High School,No,49,0,1
+35 - 44,Female,36,R&D,Manufacturing Director,3,Master's Degree,No,36,0,1
+35 - 44,Female,42,R&D,Healthcare Representative,4,Bachelor's Degree,No,44,0,1
+35 - 44,Female,33,R&D,Manufacturing Director,2,Associates Degree,No,35,0,1
+35 - 44,Female,36,R&D,Manufacturing Director,3,Associates Degree,No,38,0,1
+35 - 44,Female,36,Sales,Sales Executive,3,Master's Degree,No,36,0,1
+45 - 54,Female,45,Sales,Sales Executive,3,Bachelor's Degree,No,47,0,1
+35 - 44,Female,33,Sales,Sales Executive,4,Master's Degree,No,35,0,1
+25 - 34,Female,33,Sales,Sales Executive,4,High School,No,34,0,1
+Under 25,Female,24,Sales,Sales Executive,3,High School,No,24,0,1
+Over 55,Female,57,Sales,Manager,4,Bachelor's Degree,No,58,0,1
+35 - 44,Female,33,HR,Human Resources,4,Master's Degree,No,35,0,1
+35 - 44,Female,33,R&D,Healthcare Representative,3,Master's Degree,No,35,0,1
+45 - 54,Female,45,R&D,Laboratory Technician,1,Doctoral Degree,No,45,0,1
+45 - 54,Female,54,R&D,Manufacturing Director,1,Bachelor's Degree,No,54,0,1
+35 - 44,Female,39,R&D,Manufacturing Director,4,Bachelor's Degree,No,40,0,1
+35 - 44,Female,36,Sales,Sales Executive,2,Master's Degree,No,36,0,1
+25 - 34,Female,30,R&D,Research Director,3,Bachelor's Degree,No,31,0,1
+45 - 54,Female,45,Sales,Sales Executive,3,Master's Degree,No,45,0,1
+45 - 54,Female,54,R&D,Manager,4,Master's Degree,No,54,0,1
+35 - 44,Female,36,R&D,Laboratory Technician,2,Bachelor's Degree,No,38,0,1
+25 - 34,Female,30,R&D,Manufacturing Director,4,High School,No,31,0,1
+25 - 34,Female,27,R&D,Manufacturing Director,1,Bachelor's Degree,No,28,0,1
+45 - 54,Female,45,HR,Human Resources,3,Bachelor's Degree,No,45,0,1
+35 - 44,Female,39,R&D,Manufacturing Director,2,Master's Degree,No,41,0,1
+Over 55,Female,54,R&D,Research Scientist,1,Associates Degree,No,56,0,1
+25 - 34,Female,24,R&D,Research Scientist,4,Bachelor's Degree,No,26,0,1
+45 - 54,Female,54,R&D,Manager,3,Doctoral Degree,No,54,0,1
+45 - 54,Female,48,R&D,Laboratory Technician,1,Associates Degree,No,49,0,1
+25 - 34,Female,27,R&D,Research Scientist,1,Bachelor's Degree,No,28,0,1
+35 - 44,Female,33,Sales,Sales Representative,3,Master's Degree,No,35,0,1
+25 - 34,Female,27,Sales,Sales Representative,3,High School,No,27,0,1
+35 - 44,Female,39,Sales,Sales Executive,2,Bachelor's Degree,No,41,0,1
+25 - 34,Female,33,Sales,Sales Executive,3,Bachelor's Degree,No,34,0,1
+25 - 34,Female,33,Sales,Sales Executive,4,Bachelor's Degree,No,33,0,1
+45 - 54,Female,51,R&D,Manufacturing Director,3,Master's Degree,No,53,0,1
+25 - 34,Female,24,Sales,Sales Executive,3,Associates Degree,No,25,0,1
+35 - 44,Female,36,R&D,Research Director,4,Bachelor's Degree,No,37,0,1
+Over 55,Female,57,R&D,Research Director,1,Bachelor's Degree,No,58,0,1
+35 - 44,Female,36,R&D,Research Scientist,2,Master's Degree,No,36,0,1
+35 - 44,Female,36,Sales,Sales Representative,4,Master's Degree,No,38,0,1
+35 - 44,Male,36,HR,Human Resources,2,Bachelor's Degree,No,38,0,1
+25 - 34,Male,27,HR,Human Resources,4,Associates Degree,No,28,0,1
+25 - 34,Male,33,R&D,Laboratory Technician,3,Associates Degree,No,33,0,1
+35 - 44,Male,33,R&D,Manufacturing Director,4,Associates Degree,No,35,0,1
+25 - 34,Male,30,R&D,Research Scientist,3,Bachelor's Degree,No,30,0,1
+35 - 44,Male,39,R&D,Laboratory Technician,3,Master's Degree,No,40,0,1
+35 - 44,Male,39,R&D,Research Director,2,High School,No,40,0,1
+25 - 34,Male,33,R&D,Research Scientist,2,Bachelor's Degree,No,33,0,1
+45 - 54,Male,51,Sales,Sales Representative,4,Master's Degree,No,52,0,1
+35 - 44,Male,39,HR,Human Resources,2,Bachelor's Degree,No,41,0,1
+45 - 54,Male,45,R&D,Research Scientist,2,Master's Degree,No,47,0,1
+25 - 34,Male,30,R&D,Research Scientist,1,Master's Degree,No,32,0,1
+45 - 54,Male,45,Sales,Sales Executive,1,Bachelor's Degree,No,45,0,1
+45 - 54,Male,45,Sales,Sales Executive,2,Master's Degree,No,47,0,1
+35 - 44,Male,42,R&D,Research Scientist,3,Bachelor's Degree,No,43,0,1
+25 - 34,Male,30,R&D,Manufacturing Director,1,Bachelor's Degree,No,31,0,1
+25 - 34,Male,30,R&D,Research Scientist,2,Master's Degree,No,32,0,1
+35 - 44,Male,42,R&D,Laboratory Technician,3,Bachelor's Degree,No,44,0,1
+25 - 34,Male,27,R&D,Research Scientist,3,Bachelor's Degree,No,28,0,1
+35 - 44,Male,36,R&D,Laboratory Technician,3,Associates Degree,No,37,0,1
+35 - 44,Male,42,R&D,Research Scientist,3,Associates Degree,No,42,0,1
+35 - 44,Male,39,R&D,Manager,4,Bachelor's Degree,No,39,0,1
+45 - 54,Male,45,Sales,Sales Executive,2,Associates Degree,No,46,0,1
+25 - 34,Male,27,R&D,Healthcare Representative,4,High School,No,29,0,1
+25 - 34,Male,33,R&D,Research Director,1,Bachelor's Degree,No,34,0,1
+25 - 34,Male,33,R&D,Manufacturing Director,4,Master's Degree,No,34,0,1
+25 - 34,Male,33,R&D,Research Scientist,1,Master's Degree,No,34,0,1
+25 - 34,Male,24,R&D,Manufacturing Director,3,High School,No,25,0,1
+35 - 44,Male,36,Sales,Sales Executive,4,Master's Degree,No,37,0,1
+35 - 44,Male,39,Sales,Sales Executive,4,Bachelor's Degree,No,39,0,1
+Under 25,Male,24,HR,Human Resources,4,Bachelor's Degree,No,24,0,1
+35 - 44,Male,36,HR,Human Resources,3,Master's Degree,No,38,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,3,Master's Degree,No,38,0,1
+25 - 34,Male,30,R&D,Research Scientist,3,Bachelor's Degree,No,32,0,1
+45 - 54,Male,48,R&D,Research Director,4,High School,No,49,0,1
+25 - 34,Male,24,R&D,Laboratory Technician,4,Bachelor's Degree,No,26,0,1
+35 - 44,Male,36,R&D,Laboratory Technician,4,Associates Degree,No,36,0,1
+25 - 34,Male,33,R&D,Healthcare Representative,3,Master's Degree,No,34,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,4,High School,No,29,0,1
+35 - 44,Male,36,R&D,Research Scientist,4,Bachelor's Degree,No,38,0,1
+45 - 54,Male,48,Sales,Sales Executive,2,Bachelor's Degree,No,49,0,1
+25 - 34,Male,33,Sales,Sales Executive,1,Bachelor's Degree,No,33,0,1
+45 - 54,Male,45,R&D,Healthcare Representative,3,Master's Degree,No,45,0,1
+35 - 44,Male,33,R&D,Manufacturing Director,4,Associates Degree,No,35,0,1
+25 - 34,Male,27,R&D,Research Scientist,4,Bachelor's Degree,No,27,0,1
+25 - 34,Male,27,Sales,Sales Executive,1,Bachelor's Degree,No,28,0,1
+25 - 34,Male,30,Sales,Sales Executive,1,Master's Degree,No,31,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,Master's Degree,No,32,0,1
+35 - 44,Male,36,HR,Human Resources,2,Associates Degree,No,37,0,1
+Over 55,Male,54,R&D,Research Scientist,2,Bachelor's Degree,No,55,0,1
+25 - 34,Male,27,R&D,Research Scientist,3,Bachelor's Degree,No,28,0,1
+35 - 44,Male,39,R&D,Manager,1,Master's Degree,No,40,0,1
+45 - 54,Male,45,R&D,Healthcare Representative,2,Master's Degree,No,45,0,1
+Under 25,Male,24,R&D,Laboratory Technician,1,High School,No,24,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,3,Bachelor's Degree,No,31,0,1
+35 - 44,Male,36,R&D,Research Scientist,4,Associates Degree,No,38,0,1
+Over 55,Male,54,R&D,Research Director,4,Master's Degree,No,55,0,1
+Under 25,Male,24,R&D,Laboratory Technician,1,Associates Degree,No,24,0,1
+35 - 44,Male,39,R&D,Laboratory Technician,3,Associates Degree,No,39,0,1
+45 - 54,Male,48,R&D,Healthcare Representative,2,Master's Degree,No,49,0,1
+35 - 44,Male,39,R&D,Research Scientist,3,Bachelor's Degree,No,40,0,1
+25 - 34,Male,27,R&D,Healthcare Representative,3,High School,No,29,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,1,Bachelor's Degree,No,27,0,1
+25 - 34,Male,30,R&D,Research Scientist,2,Bachelor's Degree,No,32,0,1
+35 - 44,Male,39,R&D,Research Scientist,4,Master's Degree,No,39,0,1
+45 - 54,Male,45,R&D,Manufacturing Director,4,Associates Degree,No,46,0,1
+35 - 44,Male,42,R&D,Laboratory Technician,2,Bachelor's Degree,No,43,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,Associates Degree,No,31,0,1
+25 - 34,Male,30,Sales,Sales Executive,1,Associates Degree,No,30,0,1
+35 - 44,Male,39,Sales,Sales Executive,2,Bachelor's Degree,No,41,0,1
+25 - 34,Male,27,Sales,Sales Executive,3,Bachelor's Degree,No,29,0,1
+45 - 54,Male,48,Sales,Sales Executive,1,Bachelor's Degree,No,48,0,1
+25 - 34,Male,33,Sales,Sales Executive,3,Master's Degree,No,34,0,1
+25 - 34,Male,33,Sales,Sales Executive,4,Master's Degree,No,33,0,1
+25 - 34,Male,27,HR,Human Resources,2,High School,No,29,0,1
+25 - 34,Male,27,R&D,Healthcare Representative,1,Bachelor's Degree,No,29,0,1
+35 - 44,Male,42,R&D,Manager,3,Bachelor's Degree,No,42,0,1
+45 - 54,Male,48,R&D,Healthcare Representative,3,Master's Degree,No,49,0,1
+35 - 44,Male,42,R&D,Healthcare Representative,3,Bachelor's Degree,No,43,0,1
+35 - 44,Male,36,R&D,Healthcare Representative,3,Master's Degree,No,36,0,1
+35 - 44,Male,36,R&D,Research Scientist,4,Bachelor's Degree,No,37,0,1
+25 - 34,Male,24,R&D,Laboratory Technician,4,Bachelor's Degree,No,25,0,1
+45 - 54,Male,45,R&D,Research Scientist,4,Bachelor's Degree,No,47,0,1
+35 - 44,Male,39,R&D,Laboratory Technician,4,Master's Degree,No,40,0,1
+35 - 44,Male,33,R&D,Laboratory Technician,3,Master's Degree,No,35,0,1
+25 - 34,Male,30,R&D,Research Scientist,2,Bachelor's Degree,No,30,0,1
+25 - 34,Male,33,R&D,Laboratory Technician,4,Associates Degree,No,34,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,1,High School,No,27,0,1
+35 - 44,Male,39,R&D,Manufacturing Director,1,Doctoral Degree,No,39,0,1
+25 - 34,Male,27,R&D,Research Scientist,2,Master's Degree,No,27,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,3,Master's Degree,No,31,0,1
+25 - 34,Male,30,R&D,Research Scientist,4,High School,No,30,0,1
+25 - 34,Male,33,R&D,Research Scientist,4,Master's Degree,No,34,0,1
+35 - 44,Male,42,R&D,Healthcare Representative,1,Bachelor's Degree,No,42,0,1
+35 - 44,Male,33,R&D,Research Scientist,1,Doctoral Degree,No,35,0,1
+35 - 44,Male,42,R&D,Healthcare Representative,1,Master's Degree,No,44,0,1
+25 - 34,Male,33,R&D,Laboratory Technician,2,Bachelor's Degree,No,33,0,1
+25 - 34,Male,33,R&D,Laboratory Technician,3,Bachelor's Degree,No,34,0,1
+35 - 44,Male,33,R&D,Laboratory Technician,3,Bachelor's Degree,No,35,0,1
+45 - 54,Male,51,R&D,Healthcare Representative,4,Master's Degree,No,53,0,1
+25 - 34,Male,27,R&D,Manufacturing Director,2,High School,No,28,0,1
+Over 55,Male,54,R&D,Research Director,1,Bachelor's Degree,No,55,0,1
+35 - 44,Male,42,R&D,Laboratory Technician,2,Bachelor's Degree,No,42,0,1
+35 - 44,Male,33,R&D,Laboratory Technician,4,Associates Degree,No,35,0,1
+35 - 44,Male,42,R&D,Research Director,1,Bachelor's Degree,No,42,0,1
+35 - 44,Male,36,R&D,Manufacturing Director,3,Bachelor's Degree,No,37,0,1
+25 - 34,Male,27,R&D,Research Scientist,4,Bachelor's Degree,No,28,0,1
+25 - 34,Male,27,R&D,Research Scientist,3,Bachelor's Degree,No,29,0,1
+25 - 34,Male,30,R&D,Healthcare Representative,3,Bachelor's Degree,No,30,0,1
+Under 25,Male,24,R&D,Research Scientist,3,Bachelor's Degree,No,24,0,1
+25 - 34,Male,24,R&D,Laboratory Technician,3,Master's Degree,No,26,0,1
+35 - 44,Male,39,R&D,Healthcare Representative,1,High School,No,39,0,1
+45 - 54,Male,48,R&D,Research Director,2,Bachelor's Degree,No,48,0,1
+35 - 44,Male,42,R&D,Research Director,1,Bachelor's Degree,No,44,0,1
+25 - 34,Male,30,R&D,Laboratory Technician,2,Associates Degree,No,30,0,1
+35 - 44,Male,33,R&D,Manufacturing Director,3,Master's Degree,No,35,0,1
+25 - 34,Male,33,R&D,Research Scientist,1,Master's Degree,No,33,0,1
+Under 25,Male,21,R&D,Research Scientist,3,Bachelor's Degree,No,23,0,1
+35 - 44,Male,39,Sales,Sales Executive,1,Associates Degree,No,40,0,1
+25 - 34,Male,33,Sales,Sales Executive,1,Master's Degree,No,33,0,1
+25 - 34,Male,30,Sales,Sales Representative,3,Associates Degree,No,31,0,1
+25 - 34,Male,30,Sales,Sales Executive,3,Bachelor's Degree,No,31,0,1
+35 - 44,Male,36,Sales,Sales Executive,2,Associates Degree,No,37,0,1
+25 - 34,Male,30,Sales,Sales Representative,2,Master's Degree,No,32,0,1
+35 - 44,Male,33,Sales,Sales Executive,1,Master's Degree,No,35,0,1
+35 - 44,Male,36,Sales,Sales Executive,2,Associates Degree,No,36,0,1
+25 - 34,Male,30,Sales,Sales Executive,2,Master's Degree,No,30,0,1
+35 - 44,Male,36,Sales,Sales Executive,2,Bachelor's Degree,No,38,0,1
+25 - 34,Male,30,Sales,Sales Executive,3,Bachelor's Degree,No,32,0,1
+35 - 44,Male,36,Sales,Sales Executive,2,Master's Degree,No,38,0,1
+35 - 44,Male,33,Sales,Sales Representative,3,High School,No,35,0,1
+25 - 34,Male,30,Sales,Sales Executive,3,High School,No,30,0,1
+25 - 34,Male,30,Sales,Sales Executive,4,Doctoral Degree,No,32,0,1
+35 - 44,Male,39,Sales,Sales Executive,3,Bachelor's Degree,No,39,0,1
+25 - 34,Male,27,HR,Human Resources,1,Bachelor's Degree,No,29,0,1
+35 - 44,Male,42,HR,Human Resources,4,Bachelor's Degree,No,43,0,1
+35 - 44,Male,36,R&D,Laboratory Technician,4,Master's Degree,No,36,0,1
+35 - 44,Male,36,R&D,Laboratory Technician,2,Bachelor's Degree,No,36,0,1
+Under 25,Male,21,R&D,Laboratory Technician,3,High School,No,23,0,1
+35 - 44,Male,39,R&D,Research Scientist,4,High School,No,39,0,1
+25 - 34,Male,33,R&D,Research Scientist,4,Master's Degree,No,34,0,1
+Under 25,Male,24,R&D,Healthcare Representative,3,Associates Degree,No,24,0,1
+35 - 44,Male,33,R&D,Research Scientist,3,Master's Degree,No,35,0,1
+35 - 44,Male,39,R&D,Healthcare Representative,2,Bachelor's Degree,No,41,0,1
+35 - 44,Male,39,R&D,Research Scientist,3,Master's Degree,No,40,0,1
+25 - 34,Male,24,R&D,Laboratory Technician,1,Bachelor's Degree,No,26,0,1
+45 - 54,Male,45,R&D,Healthcare Representative,2,Master's Degree,No,46,0,1
+45 - 54,Male,48,R&D,Manager,3,Bachelor's Degree,No,49,0,1
+Under 25,Male,21,R&D,Research Scientist,4,High School,No,21,0,1
+25 - 34,Male,24,R&D,Laboratory Technician,1,Bachelor's Degree,No,26,0,1
+35 - 44,Male,33,R&D,Laboratory Technician,1,Bachelor's Degree,No,35,0,1
+25 - 34,Male,33,R&D,Manufacturing Director,2,Bachelor's Degree,No,33,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,1,Bachelor's Degree,No,29,0,1
+25 - 34,Male,30,R&D,Research Scientist,1,Bachelor's Degree,No,32,0,1
+35 - 44,Male,42,R&D,Research Scientist,2,Bachelor's Degree,No,44,0,1
+35 - 44,Male,42,R&D,Laboratory Technician,3,Bachelor's Degree,No,42,0,1
+Under 25,Male,21,R&D,Research Scientist,3,Associates Degree,No,22,0,1
+Under 25,Male,21,R&D,Laboratory Technician,4,Associates Degree,No,23,0,1
+45 - 54,Male,51,R&D,Research Director,2,Bachelor's Degree,No,53,0,1
+35 - 44,Male,36,Sales,Sales Representative,1,Bachelor's Degree,No,38,0,1
+35 - 44,Male,39,Sales,Sales Executive,1,Master's Degree,No,39,0,1
+35 - 44,Male,39,Sales,Manager,2,Master's Degree,No,40,0,1
+25 - 34,Male,33,Sales,Sales Executive,3,Master's Degree,No,33,0,1
+25 - 34,Male,27,Sales,Sales Executive,3,Bachelor's Degree,No,29,0,1
+25 - 34,Male,24,Sales,Sales Executive,4,Bachelor's Degree,No,26,0,1
+25 - 34,Male,33,Sales,Sales Executive,1,Bachelor's Degree,No,34,0,1
+Under 25,Male,18,Sales,Sales Representative,1,High School,No,20,0,1
+25 - 34,Male,27,Sales,Sales Executive,1,Bachelor's Degree,No,28,0,1
+35 - 44,Male,39,Sales,Sales Executive,3,Bachelor's Degree,No,41,0,1
+25 - 34,Male,27,Sales,Sales Executive,4,Bachelor's Degree,No,27,0,1
+45 - 54,Male,45,Sales,Manager,1,Master's Degree,No,46,0,1
+25 - 34,Male,30,R&D,Research Scientist,1,Associates Degree,No,31,0,1
+35 - 44,Male,39,R&D,Healthcare Representative,4,Associates Degree,No,40,0,1
+25 - 34,Male,33,Sales,Sales Executive,3,Bachelor's Degree,No,34,0,1
+35 - 44,Male,39,R&D,Laboratory Technician,4,Bachelor's Degree,No,39,0,1
+35 - 44,Male,42,HR,Human Resources,4,Doctoral Degree,No,44,0,1
+35 - 44,Male,36,HR,Human Resources,2,Master's Degree,No,38,0,1
+Over 55,Male,57,R&D,Research Director,3,Master's Degree,No,58,0,1
+35 - 44,Male,36,R&D,Laboratory Technician,1,Master's Degree,No,36,0,1
+45 - 54,Male,48,R&D,Healthcare Representative,3,Doctoral Degree,No,50,0,1
+25 - 34,Male,33,R&D,Research Scientist,4,Master's Degree,No,34,0,1
+35 - 44,Male,33,R&D,Healthcare Representative,3,Master's Degree,No,35,0,1
+35 - 44,Male,42,R&D,Healthcare Representative,4,Bachelor's Degree,No,42,0,1
+25 - 34,Male,27,Sales,Sales Executive,4,Associates Degree,No,28,0,1
+35 - 44,Male,33,R&D,Research Scientist,4,Master's Degree,No,35,0,1
+35 - 44,Male,42,R&D,Manufacturing Director,3,High School,No,44,0,1
+45 - 54,Male,48,R&D,Research Director,4,Doctoral Degree,No,50,0,1
+25 - 34,Male,27,R&D,Healthcare Representative,3,Bachelor's Degree,No,29,0,1
+45 - 54,Male,45,R&D,Healthcare Representative,1,Bachelor's Degree,No,45,0,1
+45 - 54,Male,45,R&D,Research Director,4,Master's Degree,No,46,0,1
+35 - 44,Male,42,R&D,Research Scientist,1,Master's Degree,No,42,0,1
+25 - 34,Male,24,R&D,Laboratory Technician,3,High School,No,25,0,1
+25 - 34,Male,27,Sales,Sales Executive,2,Bachelor's Degree,No,29,0,1
+35 - 44,Male,42,Sales,Sales Executive,4,Master's Degree,No,42,0,1
+45 - 54,Male,45,Sales,Sales Executive,4,Bachelor's Degree,No,46,0,1
+Over 55,Male,54,HR,Manager,2,Master's Degree,No,55,0,1
+35 - 44,Male,36,R&D,Healthcare Representative,4,Bachelor's Degree,No,38,0,1
+25 - 34,Male,33,R&D,Laboratory Technician,3,Master's Degree,No,33,0,1
+45 - 54,Male,45,R&D,Manufacturing Director,4,Bachelor's Degree,No,45,0,1
+35 - 44,Male,39,R&D,Research Scientist,3,Doctoral Degree,No,41,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,2,Associates Degree,No,29,0,1
+35 - 44,Male,36,R&D,Healthcare Representative,1,Bachelor's Degree,No,36,0,1
+Over 55,Male,54,R&D,Healthcare Representative,3,Master's Degree,No,55,0,1
+35 - 44,Male,33,R&D,Laboratory Technician,3,Master's Degree,No,35,0,1
+25 - 34,Male,33,R&D,Research Scientist,4,Master's Degree,No,34,0,1
+45 - 54,Male,48,Sales,Manager,3,Bachelor's Degree,No,50,0,1
+25 - 34,Male,33,Sales,Sales Executive,4,Bachelor's Degree,No,34,0,1
+25 - 34,Male,33,Sales,Sales Executive,3,Bachelor's Degree,No,34,0,1
+35 - 44,Male,42,Sales,Sales Executive,4,Bachelor's Degree,No,43,0,1
+25 - 34,Male,27,R&D,Laboratory Technician,1,High School,No,29,0,1
+35 - 44,Male,42,R&D,Research Scientist,4,Bachelor's Degree,No,44,0,1
+25 - 34,Male,33,R&D,Healthcare Representative,3,Doctoral Degree,No,33,0,1
+Under 25,Male,21,Sales,Sales Representative,1,High School,No,21,0,1
+35 - 44,Male,39,Sales,Sales Executive,3,Associates Degree,No,41,0,1
+Over 55,Male,54,R&D,Healthcare Representative,3,Master's Degree,No,56,0,1
+Over 55,Male,57,Sales,Manager,2,Bachelor's Degree,No,58,0,1
+35 - 44,Male,36,Sales,Sales Executive,4,Master's Degree,No,36,0,1
+35 - 44,Male,36,R&D,Laboratory Technician,2,Master's Degree,No,36,0,1
+45 - 54,Male,45,R&D,Healthcare Representative,3,High School,No,45,0,1
+35 - 44,Male,42,R&D,Research Scientist,3,Master's Degree,No,42,0,1
+25 - 34,Male,24,R&D,Laboratory Technician,4,Bachelor's Degree,No,26,0,1
+25 - 34,Male,33,R&D,Healthcare Representative,3,Associates Degree,No,33,0,1
+45 - 54,Male,48,R&D,Manager,4,Doctoral Degree,No,48,0,1
+25 - 34,Male,30,R&D,Research Scientist,1,Bachelor's Degree,No,31,0,1
+35 - 44,Male,42,Sales,Sales Executive,4,Master's Degree,No,43,0,1
+35 - 44,Male,36,HR,Human Resources,4,High School,No,36,0,1
+25 - 34,Male,30,HR,Human Resources,3,Bachelor's Degree,No,30,0,1
+35 - 44,Male,42,R&D,Laboratory Technician,2,Bachelor's Degree,No,42,0,1
+Over 55,Male,60,R&D,Healthcare Representative,4,Master's Degree,No,60,0,1
+35 - 44,Male,39,R&D,Laboratory Technician,1,Master's Degree,No,41,0,1
+35 - 44,Male,36,R&D,Healthcare Representative,1,Associates Degree,No,36,0,1
+35 - 44,Male,39,R&D,Manufacturing Director,1,Associates Degree,No,39,0,1
+Over 55,Male,54,R&D,Research Scientist,4,Master's Degree,No,55,0,1
+Over 55,Male,57,R&D,Research Scientist,3,Associates Degree,No,57,0,1
+35 - 44,Male,42,R&D,Research Director,3,Associates Degree,No,43,0,1
+35 - 44,Male,39,R&D,Manufacturing Director,2,Bachelor's Degree,No,39,0,1
+35 - 44,Male,39,R&D,Research Scientist,4,Bachelor's Degree,No,41,0,1
+45 - 54,Male,45,R&D,Research Scientist,4,Bachelor's Degree,No,45,0,1
+25 - 34,Male,33,Sales,Sales Executive,3,Associates Degree,No,34,0,1
+Over 55,Male,54,Sales,Manager,4,Doctoral Degree,No,55,0,1
+45 - 54,Male,45,R&D,Healthcare Representative,3,Bachelor's Degree,No,47,0,1
+35 - 44,Male,39,R&D,Research Director,3,High School,No,39,0,1
+25 - 34,Male,30,R&D,Manager,4,Bachelor's Degree,No,32,0,1
+25 - 34,Male,30,R&D,Manufacturing Director,4,Master's Degree,No,32,0,1
+35 - 44,Male,42,R&D,Manager,4,Associates Degree,No,42,0,1
+25 - 34,Male,33,Sales,Sales Executive,4,Bachelor's Degree,No,34,0,1
+25 - 34,Male,27,R&D,Manufacturing Director,2,Bachelor's Degree,No,27,0,1
+35 - 44,Male,36,R&D,Research Scientist,1,Master's Degree,No,37,0,1
+25 - 34,Male,33,Sales,Sales Representative,3,Associates Degree,No,34,0,1
+35 - 44,Male,39,HR,Manager,4,Associates Degree,No,40,0,1
+35 - 44,Male,36,Sales,Sales Representative,4,Master's Degree,No,36,0,1
+25 - 34,Female,30,HR,Human Resources,4,Bachelor's Degree,Yes,30,1,1
+25 - 34,Female,27,HR,Human Resources,2,Bachelor's Degree,Yes,27,1,1
+25 - 34,Female,30,R&D,Manufacturing Director,2,Doctoral Degree,Yes,31,1,1
+25 - 34,Female,30,R&D,Research Scientist,3,Bachelor's Degree,Yes,31,1,1
+25 - 34,Female,27,Sales,Sales Executive,2,Bachelor's Degree,Yes,29,1,1
+25 - 34,Female,30,Sales,Sales Representative,3,Master's Degree,Yes,31,1,1
+25 - 34,Female,33,HR,Human Resources,3,Master's Degree,Yes,34,1,1
+45 - 54,Female,51,R&D,Manufacturing Director,4,Doctoral Degree,Yes,53,1,1
+25 - 34,Female,30,R&D,Research Scientist,2,Bachelor's Degree,Yes,31,1,1
+25 - 34,Female,27,Sales,Sales Representative,2,Bachelor's Degree,Yes,29,1,1
+45 - 54,Female,48,Sales,Sales Representative,3,Associates Degree,Yes,48,1,1
+25 - 34,Female,30,R&D,Research Scientist,3,Associates Degree,Yes,32,1,1
+25 - 34,Female,27,R&D,Healthcare Representative,4,High School,Yes,29,1,1
+Under 25,Female,18,Sales,Sales Representative,4,Associates Degree,Yes,18,1,1
+35 - 44,Female,33,R&D,Laboratory Technician,1,Bachelor's Degree,Yes,35,1,1
+25 - 34,Female,24,HR,Human Resources,2,Associates Degree,Yes,26,1,1
+Under 25,Female,21,R&D,Laboratory Technician,1,High School,Yes,22,1,1
+25 - 34,Female,27,Sales,Sales Executive,3,Associates Degree,Yes,28,1,1
+45 - 54,Female,45,R&D,Healthcare Representative,2,Associates Degree,Yes,46,1,1
+45 - 54,Female,45,Sales,Sales Executive,2,Bachelor's Degree,Yes,46,1,1
+35 - 44,Female,39,R&D,Laboratory Technician,1,Bachelor's Degree,Yes,39,1,1
+25 - 34,Female,33,Sales,Sales Executive,2,Master's Degree,Yes,34,1,1
+25 - 34,Female,33,Sales,Sales Executive,1,Bachelor's Degree,Yes,33,1,1
+45 - 54,Male,48,Sales,Sales Executive,3,Master's Degree,Yes,50,1,1
+25 - 34,Male,33,R&D,Laboratory Technician,1,Master's Degree,Yes,34,1,1
+25 - 34,Male,27,Sales,Sales Representative,3,Bachelor's Degree,Yes,28,1,1
+45 - 54,Male,45,Sales,Sales Executive,3,Bachelor's Degree,Yes,47,1,1
+Under 25,Male,21,Sales,Sales Representative,1,Bachelor's Degree,Yes,23,1,1
+25 - 34,Male,27,R&D,Laboratory Technician,1,Associates Degree,Yes,28,1,1
+25 - 34,Male,27,Sales,Sales Representative,1,Bachelor's Degree,Yes,29,1,1
+25 - 34,Male,27,R&D,Laboratory Technician,4,Bachelor's Degree,Yes,28,1,1
+45 - 54,Male,45,Sales,Sales Executive,4,Bachelor's Degree,Yes,46,1,1
+Under 25,Male,24,HR,Human Resources,3,High School,Yes,24,1,1
+25 - 34,Male,30,HR,Human Resources,1,Doctoral Degree,Yes,31,1,1
+35 - 44,Male,36,R&D,Manufacturing Director,2,Bachelor's Degree,Yes,38,1,1
+Over 55,Male,54,R&D,Laboratory Technician,3,Associates Degree,Yes,56,1,1
+25 - 34,Male,24,Sales,Sales Representative,1,Associates Degree,Yes,25,1,1
+25 - 34,Male,30,Sales,Sales Executive,3,Master's Degree,Yes,31,1,1
+25 - 34,Male,30,Sales,Sales Executive,1,Bachelor's Degree,Yes,30,1,1
+35 - 44,Male,33,Sales,Sales Executive,1,Bachelor's Degree,Yes,35,1,1
+25 - 34,Male,27,R&D,Research Scientist,1,Master's Degree,Yes,29,1,1
+Over 55,Male,54,R&D,Laboratory Technician,4,Associates Degree,Yes,56,1,1
+35 - 44,Male,39,R&D,Laboratory Technician,1,Master's Degree,Yes,40,1,1
+35 - 44,Male,36,R&D,Manufacturing Director,1,Master's Degree,Yes,37,1,1
+25 - 34,Male,30,R&D,Laboratory Technician,2,Master's Degree,Yes,32,1,1
+25 - 34,Male,30,Sales,Sales Executive,2,Associates Degree,Yes,32,1,1
+Under 25,Male,21,Sales,Sales Representative,2,High School,Yes,21,1,1
+25 - 34,Male,30,Sales,Sales Representative,4,Bachelor's Degree,Yes,30,1,1
+35 - 44,Male,42,R&D,Research Scientist,2,Associates Degree,Yes,44,1,1
+25 - 34,Male,30,R&D,Laboratory Technician,4,Bachelor's Degree,Yes,31,1,1
+35 - 44,Male,42,R&D,Research Scientist,3,Bachelor's Degree,Yes,43,1,1
+25 - 34,Male,30,Sales,Sales Executive,4,Master's Degree,Yes,31,1,1
+Under 25,Male,24,R&D,Laboratory Technician,1,Bachelor's Degree,Yes,24,1,1
+25 - 34,Male,27,HR,Human Resources,1,Bachelor's Degree,Yes,29,1,1
+35 - 44,Male,33,Sales,Sales Executive,4,Associates Degree,Yes,35,1,1
+35 - 44,Male,36,Sales,Sales Executive,1,Doctoral Degree,Yes,36,1,1
+45 - 54,Male,48,Sales,Sales Executive,1,Bachelor's Degree,Yes,50,1,1
+25 - 34,Male,27,R&D,Research Scientist,4,Master's Degree,Yes,29,1,1
+25 - 34,Male,27,R&D,Laboratory Technician,2,Bachelor's Degree,Yes,28,1,1
+35 - 44,Male,39,R&D,Laboratory Technician,1,Bachelor's Degree,Yes,40,1,1
+Under 25,Male,21,R&D,Laboratory Technician,3,High School,Yes,23,1,1
+45 - 54,Male,51,Sales,Sales Executive,1,Master's Degree,Yes,53,1,1
+25 - 34,Male,30,Sales,Sales Executive,2,Master's Degree,Yes,32,1,1
+35 - 44,Male,33,Sales,Sales Executive,4,Bachelor's Degree,Yes,35,1,1
+45 - 54,Male,48,R&D,Laboratory Technician,1,Associates Degree,Yes,49,1,1
+25 - 34,Male,33,R&D,Research Scientist,1,Master's Degree,Yes,34,1,1
+25 - 34,Male,27,R&D,Research Scientist,4,Associates Degree,Yes,29,1,1
+35 - 44,Male,33,Sales,Sales Executive,4,Master's Degree,Yes,35,1,1
+Under 25,Male,21,Sales,Sales Representative,4,Bachelor's Degree,Yes,23,1,1
+Under 25,Male,21,R&D,Research Scientist,2,High School,Yes,22,1,1
